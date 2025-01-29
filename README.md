@@ -168,7 +168,7 @@
 - [CheckPointSW/InviZzzible](https://github.com/CheckPointSW/InviZzzible) - InviZzzible is a tool for assessment of your virtual environments in an easy and reliable way. It contains the most recent and up to date detection and evasion techniques as well as fixes for them.
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
-- [zeelog/android_device_xiaomi_mido](https://github.com/zeelog/android_device_xiaomi_mido) - Xiaomi Mido - Device Tree (Treble)
+- [zeelog/android_device_xiaomi_mido](https://github.com/zeelog/android_device_xiaomi_mido) - Xiaomi Mido - Device Tree
 - [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
 - [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series) - This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.
 - [SaketThota/CP-templates](https://github.com/SaketThota/CP-templates) - This is palindroam's CP template
