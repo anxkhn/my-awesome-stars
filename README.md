@@ -26,6 +26,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -561,6 +562,10 @@
 - [mihikagaonkar/OTC-Dashboard](https://github.com/mihikagaonkar/OTC-Dashboard) - A Power BI/Google Studio Dashboard to analyze previous OTC CatchUps
 - [Jay4Codes/BakerHughes-DataViz](https://github.com/Jay4Codes/BakerHughes-DataViz) - An interactive data analysis & visualizations dashboard for the Baker Hughes Gas Turbine dataset
 
+## KiCad Layout 
+
+- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+
 ## Kotlin 
 
 - [justsaumit/Android-BTS-QuickDisconnectSetting](https://github.com/justsaumit/Android-BTS-QuickDisconnectSetting) - 🔊 A simple Quick Settings Tile to disconnect from a given Bluetooth Headset/Speaker without completely turning off Bluetooth.
@@ -777,6 +782,7 @@
 
 ## Python 
 
+- [yashbhangale/lenovo-vantage-features-for-linux](https://github.com/yashbhangale/lenovo-vantage-features-for-linux) - Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlik
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
