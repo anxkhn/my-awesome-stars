@@ -2,32 +2,70 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 30 0 * * *
+    - cron: 30 0 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install starred
-    - name: get repository name
+
+    - name: Configure Git user
+      run: |
+        git config --global user.name "Anas Khan"
+        git config --global user.email "83116240+anxkhn@users.noreply.github.com"
+
+    - name: Get repository name
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
-    - name: update repo category by language
+
+    - name: Update repo and get changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
-    - name: update repo category by topic
+      run: |
+        starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN}
+        
+        # Check for changes
+        git diff --name-only > changed_files.txt
+        change_count=$(wc -l < changed_files.txt)
+
+        if [ "$change_count" -gt 0 ]; then
+          commit_message="add ${change_count} star"
+          git add .
+          git commit -m "$commit_message"
+          git push origin main
+        else
+          echo "No new stars to commit."
+        fi
+
+    - name: Update repo category by topic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
-      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
+      run: |
+        starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --topic --topic_limit 500 --filename topics.md
+        
+        # Check for topic changes
+        git diff --name-only > topic_changes.txt
+        topic_change_count=$(wc -l < topic_changes.txt)
+
+        if [ "$topic_change_count" -gt 0 ]; then
+          commit_message="updated topics with ${topic_change_count} changes"
+          git add topics.md
+          git commit -m "$commit_message"
+          git push origin main
+        else
+          echo "No topic changes to commit."
+        fi
