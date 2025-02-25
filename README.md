@@ -140,6 +140,7 @@
 
 ## C++ 
 
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - 
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [Dark-Kernel/tuisic](https://github.com/Dark-Kernel/tuisic) - A simple TUI online music stream app written in c++ with easy vim keybinds.
@@ -244,6 +245,7 @@
 
 ## Go 
 
+- [SirusCodes/AntiLang](https://github.com/SirusCodes/AntiLang) - An esoteric language with an aim to break all the programming conventions
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [CRED-CLUB/propeller](https://github.com/CRED-CLUB/propeller) - Push platform for realtime and bidirectional communication between clients and servers
@@ -579,7 +581,7 @@
 
 - [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [justsaumit/Android-BTS-QuickDisconnectSetting](https://github.com/justsaumit/Android-BTS-QuickDisconnectSetting) - 🔊 A simple Quick Settings Tile to disconnect from a given Bluetooth Headset/Speaker without completely turning off Bluetooth.
-- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [znsio/specmatic-coding-test](https://github.com/znsio/specmatic-coding-test) - Specmatic Coding Test
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
@@ -626,6 +628,7 @@
 
 ## Others 
 
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
@@ -793,6 +796,7 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [openclimatefix/open-data-pvnet](https://github.com/openclimatefix/open-data-pvnet) - Solar Forecasting using PVNet on Open Data
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
@@ -1105,7 +1109,7 @@
 - [vedic-lang/vedic](https://github.com/vedic-lang/vedic) - vedic is the world's first working Sanskrit programming language
 - [rajput-hemant/jiosaavn-api-rs](https://github.com/rajput-hemant/jiosaavn-api-rs) - 🎵 An Unofficial wrapper for the Jio Saavn API written in Rust programming language 🦀.
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1186,6 +1190,7 @@
 
 ## TypeScript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
 - [Ayush170-Future/jailbreak-ctf](https://github.com/Ayush170-Future/jailbreak-ctf) - 
 - [technovangelist/videoprojects](https://github.com/technovangelist/videoprojects) - 
@@ -1216,7 +1221,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with personal knowledge base - 100% local or in the cloud
 - [realvjy/coolshapes-react](https://github.com/realvjy/coolshapes-react) - 100+ abstract shapes with gradient for design & dev project
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
