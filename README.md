@@ -140,7 +140,7 @@
 
 ## C++ 
 
-- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [Dark-Kernel/tuisic](https://github.com/Dark-Kernel/tuisic) - A simple TUI online music stream app written in c++ with easy vim keybinds.
