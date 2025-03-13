@@ -274,7 +274,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package and as an endpoint.
 - [Adit0507/habit-tracker](https://github.com/Adit0507/habit-tracker) - Implemented a gRPC service using Protocol Buffers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
 - [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons) - "Fork" of official skill-icons repository. Showcase your skills on your Github readme or resumé with ease ✨
@@ -799,6 +799,7 @@
 
 ## PowerShell 
 
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
