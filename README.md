@@ -302,7 +302,6 @@
 
 ## HTML 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) - QR Code Generator implementation in JavaScript, Java and more.
 - [us-udacity/us-udacity.github.io](https://github.com/us-udacity/us-udacity.github.io) - 优达学城是全球掌握技能最快的公司
 - [razorpay/ifsc](https://github.com/razorpay/ifsc) - :bank: IFSC Codes Repository
@@ -419,6 +418,7 @@
 
 - [raihankhan-rk/AgentNet](https://github.com/raihankhan-rk/AgentNet) - 
 - [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Refine and Declutter Your Twitter Web Experience
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [sumimakito/Awesome-qr.js](https://github.com/sumimakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
@@ -824,7 +824,7 @@
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [openclimatefix/open-data-pvnet](https://github.com/openclimatefix/open-data-pvnet) - Solar Forecasting using PVNet on Open Data
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Deep-Agent/R1-V](https://github.com/Deep-Agent/R1-V) - Witness the aha moment of VLM with less than $3.
