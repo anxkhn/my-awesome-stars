@@ -256,6 +256,7 @@
 
 ## Go 
 
+- [Zomato/espresso](https://github.com/Zomato/espresso) - espresso
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [SirusCodes/AntiLang](https://github.com/SirusCodes/AntiLang) - An esoteric language with an aim to break all the programming conventions
@@ -315,7 +316,6 @@
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
-- [gvwilson/sql-tutorial](https://github.com/gvwilson/sql-tutorial) - The Querynomicon: An Introduction to SQL for Wary Data Scientists
 - [codewithsadee/smith-portfolio](https://github.com/codewithsadee/smith-portfolio) - Smith is a fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [mdbootstrap/bootstrap-fluent-design](https://github.com/mdbootstrap/bootstrap-fluent-design) - Fluent Design Theme for Bootstrap - inspired by Windows style and based on the latest Bootstrap 5.
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
@@ -549,7 +549,7 @@
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [angkul07/hindi-tokenizer](https://github.com/angkul07/hindi-tokenizer) - 
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [Abhinandan-Khurana/PhishSleuth](https://github.com/Abhinandan-Khurana/PhishSleuth) - AI-enabled Phishing Link Detection and Alert System.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -576,7 +576,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [jxareas/Machine-Learning-Notebooks](https://github.com/jxareas/Machine-Learning-Notebooks) - The full collection of Jupyter Notebook labs from Andrew Ng's new Machine Learning Specialization.
+- [jxareas/Machine-Learning-Notebooks](https://github.com/jxareas/Machine-Learning-Notebooks) - The full collection of Jupyter Notebook labs from Andrew Ng's Machine Learning Specialization.
 - [kanuarj/tsecSTTP](https://github.com/kanuarj/tsecSTTP) - Contains all the files of session conducted at Thadomal Shahani Engineering College on REST API
 - [shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques) - 
 - [hemansnation/god-level-ai](https://github.com/hemansnation/god-level-ai) - A collection of scientific methods, processes, algorithms, and systems to build stories & models.
@@ -837,7 +837,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [shantanuparabumd/automate_linkedin](https://github.com/shantanuparabumd/automate_linkedin) - 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
-- [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - 
+- [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [buridan-ui/ui](https://github.com/buridan-ui/ui) - Beautifully designed Reflex components to build your web apps faster. Open source.
@@ -855,7 +855,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [anxkhn/ollamao](https://github.com/anxkhn/ollamao) - hunt and play with large language models on public Ollama instances
-- [glomatico/votify](https://github.com/glomatico/votify) - A Python CLI app for downloading songs/podcasts from Spotify.
+- [glomatico/votify](https://github.com/glomatico/votify) - A Python CLI app for downloading songs, podcasts and videos from Spotify.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -1220,6 +1220,7 @@
 
 ## TypeScript 
 
+- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
 - [njraladdin/screen-demo](https://github.com/njraladdin/screen-demo) - A lightweight screen recording and editing tool with zoom animations, cursor tracking, and background customization. An open-source alternative to Screen.studio.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -1234,7 +1235,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yoavg/pdf-tab-renamer](https://github.com/yoavg/pdf-tab-renamer) - chrome extension for renaming tabs showing paper-pdfs from common providers
-- [google-gemini/multimodal-live-api-web-console](https://github.com/google-gemini/multimodal-live-api-web-console) - A react-based starter app for using the Multimodal Live API over websockets with Gemini
+- [google-gemini/live-api-web-console](https://github.com/google-gemini/live-api-web-console) - A react-based starter app for using the Live API over websockets with Gemini
 - [floguo/giftbox](https://github.com/floguo/giftbox) - create interactive digital gifts
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ellipse-software/url-shortener](https://github.com/ellipse-software/url-shortener) - A url shortener that respects your privacy and deployed on your own infrastructure. Built on Cloudflare KV and Workers. Serverlessly deployed. Privacy as standard.
