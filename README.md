@@ -44,6 +44,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SQL](#sql)
 - [SVG](#svg)
 - [Scala](#scala)
 - [Shell](#shell)
@@ -646,6 +647,7 @@
 
 ## Others 
 
+- [NothingOSS/android_kernel_msm-6.1_nothing_sm7635](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635) - Kernel Source and devicetree for NOTHING Phone(3a) and Phone(3a)Pro
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -965,6 +967,7 @@
 - [CibiAananth/fullstack-next-fastapi](https://github.com/CibiAananth/fullstack-next-fastapi) - A fullstack starter with Next.js, Tailwind, Shadcn UI, FastAPI, SQLAlchemy, Pydantic, Alembic, Asyncio, Postgres, Redis, Celery, RabbitMQ
 - [bens-schreiber/count-1-million](https://github.com/bens-schreiber/count-1-million) - Concurrent priority queue, sync values across clients via web socket server
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [pyfbsdk59/Flask-ChatGPT-TelegramBot-Render](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Render) - 一個Flask ChatGPT TelegramBot快速建置於平台Render。
@@ -1135,7 +1138,6 @@
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
@@ -1164,6 +1166,10 @@
 - [LuisaE/opportunities](https://github.com/LuisaE/opportunities) - List of CS and Finance exploratory programs, underclassmen internships, interview prep, scholarships, part-time internships, mentorship programs, and more!
 - [Runtime-Terror-NFC/need-for-code-35](https://github.com/Runtime-Terror-NFC/need-for-code-35) - 
 
+## SQL 
+
+- [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) - Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through practical applications. Includes content from DataLemur, LeetCode, HackerRank, and mo
+
 ## SVG 
 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
@@ -1184,7 +1190,7 @@
 - [AnthonyByansi/GitHub-Certifications-Preparation-Guides](https://github.com/AnthonyByansi/GitHub-Certifications-Preparation-Guides) - 🚀 Your ultimate GitHub certification destination, offering a rich resource hub for mastering GitHub Foundations, GitHub Actions, GitHub Advanced Security, and GitHub Administration, all in one place
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker) - Quick and dirty PoC for checking whether a vulnerable version of xz-utils is installed (CVE-2024-3094)
-- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, mak
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
