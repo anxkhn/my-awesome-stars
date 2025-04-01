@@ -86,6 +86,7 @@
 
 ## C 
 
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [SafeExamBrowser/seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
@@ -243,7 +244,7 @@
 - [SumilSuthar197/MAD-LAB](https://github.com/SumilSuthar197/MAD-LAB) - 
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [ekakshjanweja/NotWhatsapp](https://github.com/ekakshjanweja/NotWhatsapp) - 
 - [prasad1909/MedEasey](https://github.com/prasad1909/MedEasey) - 
 - [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark) - Backend benchmarking of Python, Node, and Dart frameworks
@@ -648,6 +649,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [NothingOSS/android_kernel_msm-6.1_nothing_sm7635](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635) - Kernel Source and devicetree for NOTHING Phone(3a) and Phone(3a)Pro
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
@@ -825,6 +827,8 @@
 
 ## Python 
 
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [SebiAi/custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) - A repo containing scripts and tools for creating custom Nothing Glyph compositions.
 - [MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases](https://github.com/MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases) - Text to Video of various PIB Press Releases using Artificial Intelligence / Machine Learning / Generative Adversarial Networks in English and 13 Regional Languages viz. Hindi, Urdu, Punjabi, Gujarati,
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
