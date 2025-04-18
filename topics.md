@@ -58,6 +58,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -84,6 +85,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
+- [game-development](#game-development)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -234,11 +236,12 @@
 
 ## ai 
 
+- [sunithvs/devb.io](https://github.com/sunithvs/devb.io) - DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more p
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable & Devin AI System Prompts & AI Models.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -373,6 +376,7 @@
 
 ## angular 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 
@@ -418,7 +422,7 @@
 
 ## automation 
 
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accoun
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
@@ -430,6 +434,7 @@
 
 ## awesome 
 
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -458,6 +463,7 @@
 
 ## awesome-list 
 
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -489,7 +495,7 @@
 ## aws 
 
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [build-on-aws/cloud-clubs-learner-library](https://github.com/build-on-aws/cloud-clubs-learner-library) - A library for learners! Whether or not you're a part of AWS Cloud Clubs, take a look in this library for free, open, leveled content for students 18+ worldwide
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -644,7 +650,7 @@
 
 ## chrome 
 
-- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 - [LeetSync/LeetSync](https://github.com/LeetSync/LeetSync) - LeetSync is a Chrome extension that enables you to sync your LeetCode problem submissions with a selected GitHub repository. With this extension, you can easily track your coding progress and share yo
@@ -652,7 +658,7 @@
 
 ## chrome-extension 
 
-- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps
 - [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Refine and Declutter Your Twitter Web Experience
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
 - [LeetSync/LeetSync](https://github.com/LeetSync/LeetSync) - LeetSync is a Chrome extension that enables you to sync your LeetCode problem submissions with a selected GitHub repository. With this extension, you can easily track your coding progress and share yo
@@ -886,6 +892,7 @@
 
 ## database 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
@@ -941,6 +948,11 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
 - [ekaranjaa/norman-portfolio](https://github.com/ekaranjaa/norman-portfolio) - Norman Nuthu's Portfolio
+
+## development 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
@@ -1015,6 +1027,7 @@
 
 ## electron 
 
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1079,7 +1092,7 @@
 
 ## firefox 
 
-- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡  Supercharge your Perplexity.ai
+- [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -1112,6 +1125,7 @@
 
 ## flutter 
 
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [sunarya-thito/shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter) - Shadcn/UI ported to Flutter (Unofficial)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -1171,6 +1185,10 @@
 - [Altafalam3/Guess-the-number-with-voice-assistant](https://github.com/Altafalam3/Guess-the-number-with-voice-assistant) - Guess the number game using python with voice assistant
 - [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - A visual novel video game where you learn to code and get a dev job 🎯
 
+## game-development 
+
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+
 ## git 
 
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
@@ -1210,6 +1228,7 @@
 
 ## go 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Zomato/espresso](https://github.com/Zomato/espresso) - espresso
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -1217,7 +1236,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
 - [Gauthamjm007/Backend-NodeJS-Golang-Interview_QA](https://github.com/Gauthamjm007/Backend-NodeJS-Golang-Interview_QA) - A collection of Node JS and Golang Backend interview questions please feel free to fork and contribute to this repository
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1229,6 +1248,7 @@
 
 ## golang 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [SirusCodes/AntiLang](https://github.com/SirusCodes/AntiLang) - An esoteric language with an aim to break all the programming conventions
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1240,7 +1260,7 @@
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package and as an endpoint.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
 - [damasamirulkarim/go-hexagonal-architecture](https://github.com/damasamirulkarim/go-hexagonal-architecture) - Go-Lang Hexagonal Architecture (also known as Ports and Adapters)
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
@@ -1261,7 +1281,6 @@
 
 ## google 
 
-- [google-gemini/deprecated-generative-ai-python](https://github.com/google-gemini/deprecated-generative-ai-python) - This SDK is now deprecated, use the new unified GenAI SDK.
 - [NicholasDawson/ArchiverForGooglePhotos](https://github.com/NicholasDawson/ArchiverForGooglePhotos) - A tool to maintain an archive/mirror of your Google Photos library for backup purposes.
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
@@ -1305,6 +1324,7 @@
 
 ## hacktoberfest 
 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
@@ -1528,6 +1548,8 @@
 
 ## javascript 
 
+- [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [fontseca/playground](https://github.com/fontseca/playground) - A web-based HTTP client designed for testing raw web APIs or those imported from Postman collections in JSON format. This tool functions as a plugin on my website, primarily to highlight my work as a 
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
@@ -1697,6 +1719,8 @@
 
 ## linux 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
@@ -1741,9 +1765,9 @@
 - [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -1801,6 +1825,8 @@
 
 ## macos 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [SafeExamBrowser/seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -1831,7 +1857,7 @@
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [erenkabakci/WWDC-Recap](https://github.com/erenkabakci/WWDC-Recap) - A collection of session summaries in markdown format, from WWDC 20, 19 & 17
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
@@ -1937,6 +1963,7 @@
 
 ## nextjs 
 
+- [sunithvs/devb.io](https://github.com/sunithvs/devb.io) - DevB.io seamlessly transforms your GitHub footprint into a living, breathing portfolio. Powered by AI, it tells your developer story while you focus on what matters most: writing great code. No more p
 - [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -2062,6 +2089,7 @@
 
 ## openai 
 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2069,7 +2097,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
@@ -2123,10 +2151,18 @@
 
 ## others 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [auth0/jwt-handbook-samples](https://github.com/auth0/jwt-handbook-samples) - JWT Handbook code samples
+- [juspay/purescript-presto](https://github.com/juspay/purescript-presto) - Write Apps like Mathematical Equations!
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+- [farzaa/freewrite](https://github.com/farzaa/freewrite) - 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [raymanfx/eye-rs](https://github.com/raymanfx/eye-rs) - Cross platform camera capture in Rust
+- [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [beibuwandeluori/DRCT](https://github.com/beibuwandeluori/DRCT) - The official code of "DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images"
 - [rashid642/BinaryLifting-Visalizer](https://github.com/rashid642/BinaryLifting-Visalizer) - Doc - https://docs.google.com/document/d/1yo67AkaagcRCxdlrlmDfzdsDHvw8Di1V9-CPuiBSo0s/edit?usp=sharing
 - [Honest-Hire/Honest-Hire-App](https://github.com/Honest-Hire/Honest-Hire-App) - An app to detect if the candidate is cheating via modern AI tools during an interview
-- [safzanpirani/acecoder-open](https://github.com/safzanpirani/acecoder-open) - 
+- [safzanpirani/acecoder-open](https://github.com/safzanpirani/acecoder-open) - Your secret AI weapon for coding challenges.
 - [Ornithopter-pilot/interview-coder-withoupaywall-opensource](https://github.com/Ornithopter-pilot/interview-coder-withoupaywall-opensource) - interview-coder-withoupaywall-opensource
 - [NothingOSS/android_kernel_msm-6.1_nothing_sm7635](https://github.com/NothingOSS/android_kernel_msm-6.1_nothing_sm7635) - Kernel Source and devicetree for NOTHING Phone(3a) and Phone(3a)Pro
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
@@ -2140,6 +2176,7 @@
 - [njraladdin/screen-demo](https://github.com/njraladdin/screen-demo) - A lightweight screen recording and editing tool with zoom animations, cursor tracking, and background customization. An open-source alternative to Screen.studio.
 - [patrickloeber/genai-tutorials](https://github.com/patrickloeber/genai-tutorials) - Code examples showing how to use Gemini, Gemma,  Imagen, and more.
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
+- [google-gemini/deprecated-generative-ai-python](https://github.com/google-gemini/deprecated-generative-ai-python) - This SDK is now deprecated, use the new unified Google GenAI SDK.
 - [lrh2000/Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader) - Some research about the bootloader used in Xiaomi phones.
 - [shukraditya/deepseek-rag](https://github.com/shukraditya/deepseek-rag) - 
 - [Trae-AI/Trae](https://github.com/Trae-AI/Trae) - Trae official
@@ -2246,7 +2283,6 @@
 - [codewithsadee/richard-ryan](https://github.com/codewithsadee/richard-ryan) - Richard Ryan is a fully responsive portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [SumilSuthar197/groww-frontend-assignment](https://github.com/SumilSuthar197/groww-frontend-assignment) - 
 - [ShashankGupta10/shatabdi-express](https://github.com/ShashankGupta10/shatabdi-express) - An unopinionated Express.js starter template npm package that provides flexibility for developers to choose their preferred database, ORM, and language (JavaScript or TypeScript). It also includes con
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [KlausMikhaelson/emoji_mosaic_art](https://github.com/KlausMikhaelson/emoji_mosaic_art) - 
 - [HarshKapadia2/dev](https://github.com/HarshKapadia2/dev) - Harsh Kapadia's projects and resources.
 - [code100x/cms](https://github.com/code100x/cms) - Repo for https://app.100xdevs.com/
@@ -2309,7 +2345,7 @@
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText) - Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (ChatGPT, Claude, Gemini, etc)
-- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native library for large model training
+- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native library for large-scale model training
 - [cohere-ai/cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
 - [hkirat/Algorithmic-Resources](https://github.com/hkirat/Algorithmic-Resources) - A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
@@ -2746,7 +2782,8 @@
 
 ## python 
 
-- [google-gemini/deprecated-generative-ai-python](https://github.com/google-gemini/deprecated-generative-ai-python) - This SDK is now deprecated, use the new unified GenAI SDK.
+- [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
+- [marcomq/tauri-plugin-python](https://github.com/marcomq/tauri-plugin-python) - Tauri plugin to run python code in the backend instead of rust
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -2959,6 +2996,7 @@
 
 ## react 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -3053,6 +3091,7 @@
 ## rest-api 
 
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [alfaarghya/alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api) - It's a custom leetcode api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily
 - [dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
@@ -3088,6 +3127,9 @@
 
 ## rust 
 
+- [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
+- [marcomq/tauri-plugin-python](https://github.com/marcomq/tauri-plugin-python) - Tauri plugin to run python code in the backend instead of rust
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -3131,6 +3173,7 @@
 
 ## security 
 
+- [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -3150,6 +3193,7 @@
 
 ## security-tools 
 
+- [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -3174,7 +3218,7 @@
 ## serverless 
 
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [build-on-aws/cloud-clubs-learner-library](https://github.com/build-on-aws/cloud-clubs-learner-library) - A library for learners! Whether or not you're a part of AWS Cloud Clubs, take a look in this library for free, open, leveled content for students 18+ worldwide
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
@@ -3257,6 +3301,7 @@
 
 ## svelte 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [yxshv/yashverma.me](https://github.com/yxshv/yashverma.me) - My portfolio website, made with sveltekit + tailwind
 - [adityaoberai/Alt-Text-Generator](https://github.com/adityaoberai/Alt-Text-Generator) - Generate alt text for your images!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3404,6 +3449,7 @@
 
 ## vuejs 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [sihaelov/moceen](https://github.com/sihaelov/moceen) - Create beautiful screenshots with device mockups
 - [ekaranjaa/norman-portfolio](https://github.com/ekaranjaa/norman-portfolio) - Norman Nuthu's Portfolio
@@ -3469,6 +3515,8 @@
 
 ## windows 
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer for Windows 10 and 11.
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
