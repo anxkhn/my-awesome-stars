@@ -247,7 +247,7 @@
 - [SumilSuthar197/MAD-LAB](https://github.com/SumilSuthar197/MAD-LAB) - 
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [ekakshjanweja/NotWhatsapp](https://github.com/ekakshjanweja/NotWhatsapp) - 
 - [prasad1909/MedEasey](https://github.com/prasad1909/MedEasey) - 
 - [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark) - Backend benchmarking of Python, Node, and Dart frameworks
