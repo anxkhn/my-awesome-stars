@@ -433,6 +433,7 @@
 
 ## JavaScript 
 
+- [gsoni1/taxes.fyi](https://github.com/gsoni1/taxes.fyi) - A chrome extension that makes it effortless to view after-tax salary estimates directly on levels.fyi — helping you get a clearer picture of real take-home pay.
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
 - [EvanZhouDev/polycompiler](https://github.com/EvanZhouDev/polycompiler) - Merge Python and JS code into one file that can be run in both languages.
 - [mehotkhan/BandersnatchInteractive](https://github.com/mehotkhan/BandersnatchInteractive) - Bandersnatch Interactive Player (based on html5 video player)
@@ -1280,7 +1281,7 @@
 
 ## TypeScript 
 
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [numandev1/react-native-decompiler](https://github.com/numandev1/react-native-decompiler) - Decompile React Native Android/IOS Bundle.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [sunithvs/devb.io](https://github.com/sunithvs/devb.io) - DevB.io is an AI-powered portfolio generator that transforms your GitHub activity into a dynamic, professional portfolio. Focus on coding while DevB.io keeps your developer profile fresh and always up
@@ -1352,7 +1353,7 @@
 - [leoMirandaa/portfolio](https://github.com/leoMirandaa/portfolio) - Bento portfolio made with React.js, Next 14, NextUI, Tailwind, Motion One
 - [batuhanbilginn/nextjs-portfolio-bento-style](https://github.com/batuhanbilginn/nextjs-portfolio-bento-style) - 
 - [rickyzhangca/apple-summary-slides](https://github.com/rickyzhangca/apple-summary-slides) - A collection of summary slides created Apple for WWDC and Apple Events
-- [Zlvsky/czaleski.com](https://github.com/Zlvsky/czaleski.com) - Personal dev portfolio & blog built with next.js (app router)
+- [Zlvsky/webzaleski.com](https://github.com/Zlvsky/webzaleski.com) - Personal dev portfolio & blog built with next.js (app router)
 - [KlausMikhaelson/Retain](https://github.com/KlausMikhaelson/Retain) - 
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
