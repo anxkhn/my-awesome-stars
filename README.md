@@ -180,7 +180,6 @@
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Runixe786/Winlock](https://github.com/Runixe786/Winlock) - A rainmeter skin featuring macOS style lockscreen but for your windows desktop.
-- [jmpoep/vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 - [abishekAshukla/Recursion-Striver](https://github.com/abishekAshukla/Recursion-Striver) - Learning recursion from striver recursion playlist
 - [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
 - [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
@@ -434,6 +433,7 @@
 
 ## JavaScript 
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations) - A site for viewing and analyzing the info of the organizations participating in Google Summer of Code.
 - [gsoni1/taxes.fyi](https://github.com/gsoni1/taxes.fyi) - A chrome extension that makes it effortless to view after-tax salary estimates directly on levels.fyi — helping you get a clearer picture of real take-home pay.
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
@@ -572,6 +572,7 @@
 - [patrickloeber/genai-tutorials](https://github.com/patrickloeber/genai-tutorials) - Code examples showing how to use Gemini, Gemma,  Imagen, and more.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
+- [openclimatefix/open-data-pvnet](https://github.com/openclimatefix/open-data-pvnet) - Solar Forecasting using PVNet on Open Data
 - [angkul07/Varnika](https://github.com/angkul07/Varnika) - 
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -839,7 +840,7 @@
 
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
@@ -855,6 +856,8 @@
 
 ## Python 
 
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [tattle-made/feluda](https://github.com/tattle-made/feluda) - A configurable engine for analysing multi-lingual and multi-modal content.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
@@ -875,7 +878,6 @@
 - [shukraditya/deepseek-rag](https://github.com/shukraditya/deepseek-rag) - 
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [openclimatefix/open-data-pvnet](https://github.com/openclimatefix/open-data-pvnet) - Solar Forecasting using PVNet on Open Data
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1275,6 +1277,7 @@
 
 ## TeX 
 
+- [ninadnaik10/resume](https://github.com/ninadnaik10/resume) - Resume - Ninad Naik [PDF]
 - [rudradesai200/BrainStellar](https://github.com/rudradesai200/BrainStellar) - Brainstellar gives step-wise approach to interview puzzles and written tests for analytics and Quant jobs.
 - [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [thienlongtran/resume-update-overleaf-sync](https://github.com/thienlongtran/resume-update-overleaf-sync) - GitHub Action that compiles an updated LaTeX resume and propagates new version to Google Drive, GitHub Pages, GitHub Repositories, and LinkedIn.
@@ -1284,6 +1287,9 @@
 
 ## TypeScript 
 
+- [hkirat/probo-polymarket-arb](https://github.com/hkirat/probo-polymarket-arb) - 
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for Deep Research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [numandev1/react-native-decompiler](https://github.com/numandev1/react-native-decompiler) - Decompile React Native Android/IOS Bundle.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
