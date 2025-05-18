@@ -433,6 +433,7 @@
 
 ## JavaScript 
 
+- [isanchop/stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations) - A site for viewing and analyzing the info of the organizations participating in Google Summer of Code.
 - [gsoni1/taxes.fyi](https://github.com/gsoni1/taxes.fyi) - A chrome extension that makes it effortless to view after-tax salary estimates directly on levels.fyi — helping you get a clearer picture of real take-home pay.
@@ -569,6 +570,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/alphaevolve_results](https://github.com/google-deepmind/alphaevolve_results) - 
 - [patrickloeber/genai-tutorials](https://github.com/patrickloeber/genai-tutorials) - Code examples showing how to use Gemini, Gemma,  Imagen, and more.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
@@ -678,7 +680,7 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [Trae-AI/Trae](https://github.com/Trae-AI/Trae) - Trae official
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
@@ -856,6 +858,7 @@
 
 ## Python 
 
+- [gsoc-cn/gsoc-cn](https://github.com/gsoc-cn/gsoc-cn) - Google Summer of Code 中文相关资料
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [tattle-made/feluda](https://github.com/tattle-made/feluda) - A configurable engine for analysing multi-lingual and multi-modal content.
@@ -876,7 +879,6 @@
 - [googleapis/python-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications.
 - [google-gemini/deprecated-generative-ai-python](https://github.com/google-gemini/deprecated-generative-ai-python) - This SDK is now deprecated, use the new unified Google GenAI SDK.
 - [shukraditya/deepseek-rag](https://github.com/shukraditya/deepseek-rag) - 
-- [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
@@ -981,7 +983,7 @@
 - [anxkhn/OpynGPT](https://github.com/anxkhn/OpynGPT) - An easy-to-use Python module leveraging LLMs. No keys needed—just prompt for natural language responses.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [JeremiahPetersen/RepoToText](https://github.com/JeremiahPetersen/RepoToText) - Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (ChatGPT, Claude, Gemini, etc)
-- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native library for large-scale model training
+- [pytorch/torchtitan](https://github.com/pytorch/torchtitan) - A PyTorch native platform for training generative AI models
 - [khast3x/h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx) - Open source Python library for converting PDF to DOCX.
@@ -1232,6 +1234,7 @@
 ## Shell 
 
 - [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes, preserves, and generates unmodified stock OTA images, full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers. It provides eas
+- [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -1288,7 +1291,7 @@
 ## TypeScript 
 
 - [hkirat/probo-polymarket-arb](https://github.com/hkirat/probo-polymarket-arb) - 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for Deep Research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [numandev1/react-native-decompiler](https://github.com/numandev1/react-native-decompiler) - Decompile React Native Android/IOS Bundle.
@@ -1430,7 +1433,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## Vala 
 
