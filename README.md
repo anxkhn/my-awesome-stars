@@ -858,6 +858,7 @@
 
 ## Python 
 
+- [PhialsBasement/AlphaEvolve-MatrixMul-Verification](https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification) - Verification of Google DeepMind's AlphaEvolve 48-multiplication matrix algorithm, a breakthrough in matrix multiplication after 56 years.
 - [gsoc-cn/gsoc-cn](https://github.com/gsoc-cn/gsoc-cn) - Google Summer of Code 中文相关资料
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
