@@ -239,6 +239,7 @@
 
 ## Dart 
 
+- [tensorflow/flutter-tflite](https://github.com/tensorflow/flutter-tflite) - 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - Get Microsoft's PowerToys utilities and much more to Linux world!
 - [devout-coder/ree](https://github.com/devout-coder/ree) - A cross platform e-book reader
@@ -860,6 +861,9 @@
 
 ## Python 
 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [multi-swe-bench/multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [PhialsBasement/AlphaEvolve-MatrixMul-Verification](https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification) - Verification of Google DeepMind's AlphaEvolve 48-multiplication matrix algorithm, a breakthrough in matrix multiplication after 56 years.
