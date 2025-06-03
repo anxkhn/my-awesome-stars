@@ -625,6 +625,7 @@
 
 ## Kotlin 
 
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 - [afreakyelf/Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space.
 - [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [justsaumit/Android-BTS-QuickDisconnectSetting](https://github.com/justsaumit/Android-BTS-QuickDisconnectSetting) - 🔊 A simple Quick Settings Tile to disconnect from a given Bluetooth Headset/Speaker without completely turning off Bluetooth.
@@ -1291,6 +1292,7 @@
 
 ## Swift 
 
+- [Mohammed-Yasin-Mulla/Sound](https://github.com/Mohammed-Yasin-Mulla/Sound) - 
 - [farzaa/freewrite](https://github.com/farzaa/freewrite) - 
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
