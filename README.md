@@ -320,6 +320,7 @@
 
 ## HTML 
 
+- [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
 - [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) - QR Code Generator implementation in JavaScript, Java and more.
 - [us-udacity/us-udacity.github.io](https://github.com/us-udacity/us-udacity.github.io) - 优达学城是全球掌握技能最快的公司
 - [razorpay/ifsc](https://github.com/razorpay/ifsc) - :bank: IFSC Codes Repository
@@ -571,6 +572,7 @@
 
 ## Jupyter Notebook 
 
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [DeveloperDowny/most_info_frame_extractor](https://github.com/DeveloperDowny/most_info_frame_extractor) - 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [google-deepmind/alphaevolve_results](https://github.com/google-deepmind/alphaevolve_results) - 
@@ -866,6 +868,7 @@
 
 ## Python 
 
+- [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Ollama-Agent-Roll-Cage/oarc](https://github.com/Ollama-Agent-Roll-Cage/oarc) - a pip install version of ollama agent roll cage an agentic action-space playground
 - [Ollama-Agent-Roll-Cage/agentChef](https://github.com/Ollama-Agent-Roll-Cage/agentChef) - 🔪agentChef is a comprehensive Python library for AI research, dataset generation, and conversation management using large language models. It provides tools for crawling, processing, and analyzing dat
 - [codezonediitj/pydatastructs](https://github.com/codezonediitj/pydatastructs) - A python package for data structures and algorithms
@@ -1200,7 +1203,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
