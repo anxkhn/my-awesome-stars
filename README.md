@@ -53,6 +53,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TSQL](#tsql)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -681,7 +682,7 @@
 
 ## Others 
 
-- [anxkhn/placement-data-2025](https://github.com/anxkhn/placement-data-2025) - A 600+ entry dataset of verified software/tech full-time roles and internships across India’s Tier 1, 2, and 3 colleges. Includes base salary, CTC, stipend, location, and role details. Built for 2025 
+- [anxkhn/placement-data-2025](https://github.com/anxkhn/placement-data-2025) - A 800+ entry dataset of verified software/tech full-time roles and internships across India’s Tier 1, 2, and 3 colleges. Includes base salary, CTC, stipend, location, and role details. Built for 2025 
 - [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) - This repository serves as an archive of GSoC - Google Summer of Code accepted proposals of IIT (BHU), Varanasi students.
 - [aclap-dev/video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper) - Download Helper
 - [european-summer-of-code/esoc2025](https://github.com/european-summer-of-code/esoc2025) - European Summer of Code 2025 - Information and Projects
@@ -869,6 +870,8 @@
 
 ## Python 
 
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+- [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Ollama-Agent-Roll-Cage/oarc](https://github.com/Ollama-Agent-Roll-Cage/oarc) - a pip install version of ollama agent roll cage an agentic action-space playground
 - [Ollama-Agent-Roll-Cage/agentChef](https://github.com/Ollama-Agent-Roll-Cage/agentChef) - 🔪agentChef is a comprehensive Python library for AI research, dataset generation, and conversation management using large language models. It provides tools for crawling, processing, and analyzing dat
@@ -1162,7 +1165,7 @@
 - [codedex-io/python-101](https://github.com/codedex-io/python-101) - The Legend of Python 🐍
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
 - [JadenFurtado/geoAbuseIPDB](https://github.com/JadenFurtado/geoAbuseIPDB) - A wrapper around abuseIP DB to plot IPs onto maps
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
@@ -1305,6 +1308,10 @@
 ## TSQL 
 
 - [ayushi-b/SQL-for-Data-Analysis](https://github.com/ayushi-b/SQL-for-Data-Analysis) - ✍️ Udacity SQL for Data Analysis Course Solutions and Notes along with Parch and Posey DB
+
+## Tcl 
+
+- [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
 
 ## TeX 
 
@@ -1471,6 +1478,7 @@
 
 ## Vue 
 
+- [fossunited/forklore](https://github.com/fossunited/forklore) - Forklore brings you confessions, quirks, and the occasional rant from India’s open source keepers.
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [fossunited/fossunited](https://github.com/fossunited/fossunited) - fossunited.org
 - [sihaelov/moceen](https://github.com/sihaelov/moceen) - Create beautiful screenshots with device mockups
