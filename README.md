@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [bytedance/web-bench](https://github.com/bytedance/web-bench) - Web-Bench is a benchmark designed to evaluate the performance of LLMs in actual Web development.
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [isanchop/stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -872,6 +873,8 @@
 
 ## Python 
 
+- [heilcheng/gemma-benchmark](https://github.com/heilcheng/gemma-benchmark) - Benchmarking suite for Google's Gemma models
+- [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
@@ -1183,6 +1186,7 @@
 
 ## Ruby 
 
+- [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
 - [antiwork/flexile](https://github.com/antiwork/flexile) - Equity for everyone.
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
 - [madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails) - Learn best practices to build an API using Ruby on Rails 5/6
