@@ -322,7 +322,6 @@
 
 ## HTML 
 
-- [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
 - [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) - QR Code Generator implementation in JavaScript, Java and more.
 - [us-udacity/us-udacity.github.io](https://github.com/us-udacity/us-udacity.github.io) - 优达学城是全球掌握技能最快的公司
 - [razorpay/ifsc](https://github.com/razorpay/ifsc) - :bank: IFSC Codes Repository
@@ -662,6 +661,7 @@
 
 ## MDX 
 
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -873,12 +873,14 @@
 
 ## Python 
 
+- [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
 - [heilcheng/gemma-benchmark](https://github.com/heilcheng/gemma-benchmark) - Benchmarking suite for Google's Gemma models
 - [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
+- [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
 - [Ollama-Agent-Roll-Cage/oarc](https://github.com/Ollama-Agent-Roll-Cage/oarc) - a pip install version of ollama agent roll cage an agentic action-space playground
 - [Ollama-Agent-Roll-Cage/agentChef](https://github.com/Ollama-Agent-Roll-Cage/agentChef) - 🔪agentChef is a comprehensive Python library for AI research, dataset generation, and conversation management using large language models. It provides tools for crawling, processing, and analyzing dat
 - [codezonediitj/pydatastructs](https://github.com/codezonediitj/pydatastructs) - A python package for data structures and algorithms
@@ -1334,6 +1336,9 @@
 
 ## TypeScript 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
+- [dillionverma/portfolio](https://github.com/dillionverma/portfolio) - Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Shadcn UI and Magic UI
 - [Prat011/free-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
 - [gitwitorg/react-eval](https://github.com/gitwitorg/react-eval) - Framework to evaluate LLM generated ReactJS code.
 - [hkirat/probo-polymarket-arb](https://github.com/hkirat/probo-polymarket-arb) - 
