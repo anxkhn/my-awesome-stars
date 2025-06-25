@@ -305,7 +305,7 @@
 - [FourCoreLabs/TrustedInstallerPOC](https://github.com/FourCoreLabs/TrustedInstallerPOC) - A simple go Proof of Concept to start a new shell as TrustedInstaller
 - [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
-- [Chirag-And-Dheeraj/video-streaming-server](https://github.com/Chirag-And-Dheeraj/video-streaming-server) - A research/study project for understanding and learning the fundamentals of audio/video streaming.
+- [Chirag-And-Dheeraj/Dekho](https://github.com/Chirag-And-Dheeraj/Dekho) - A research/study project for understanding and learning the fundamentals of audio/video streaming.
 - [anthdm/wazero](https://github.com/anthdm/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
@@ -575,6 +575,7 @@
 
 ## Jupyter Notebook 
 
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
@@ -686,6 +687,9 @@
 
 ## Others 
 
+- [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [NVNTLabs/switch2-SDEX2M2](https://github.com/NVNTLabs/switch2-SDEX2M2) - Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2
 - [anxkhn/placement-data-2025](https://github.com/anxkhn/placement-data-2025) - A 800+ entry dataset of verified software/tech full-time roles and internships across India’s Tier 1, 2, and 3 colleges. Includes base salary, CTC, stipend, location, and role details. Built for 2025 
@@ -698,7 +702,7 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [Trae-AI/Trae](https://github.com/Trae-AI/Trae) - Trae official
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
@@ -876,6 +880,7 @@
 
 ## Python 
 
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
@@ -1194,7 +1199,7 @@
 ## Ruby 
 
 - [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
-- [antiwork/flexile](https://github.com/antiwork/flexile) - Equity for everyone.
+- [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
 - [madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails) - Learn best practices to build an API using Ruby on Rails 5/6
 - [training-mode/ruby](https://github.com/training-mode/ruby) - Ruby training for friends
@@ -1278,6 +1283,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes, preserves, and generates unmodified stock OTA images, full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers. It provides eas
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -1341,6 +1347,7 @@
 
 ## TypeScript 
 
+- [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
 - [dillionverma/portfolio](https://github.com/dillionverma/portfolio) - Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Shadcn UI and Magic UI
