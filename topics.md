@@ -106,6 +106,7 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -937,7 +938,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Turso Database is a project to build the next evolution of SQLite.
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -1537,6 +1538,13 @@
 
 - [SirusCodes/picarch](https://github.com/SirusCodes/picarch) - Picarch is a Python project for face detection and image similarity search using insightface and PostgreSQL.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+
+## information-gathering 
+
+- [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, mak
+- [Snbig/InstaTrack](https://github.com/Snbig/InstaTrack) - Convert Instagram user ID to username & vice versa
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## instagram 
 
@@ -3165,6 +3173,7 @@
 
 ## qt 
 
+- [Skycoder42/QHotkey](https://github.com/Skycoder42/QHotkey) - A global shortcut/hotkey for Desktop Qt-Applications
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -3459,7 +3468,7 @@
 
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [faizanxmulla/sql-portfolio](https://github.com/faizanxmulla/sql-portfolio) - Repository of SQL projects, case studies, platform solutions, and learning resources to enhance SQL skills through practical applications. Includes content from DataLemur, LeetCode, HackerRank, and mo
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Turso Database is a project to build the next evolution of SQLite.
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
