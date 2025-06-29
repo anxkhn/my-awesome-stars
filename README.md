@@ -694,6 +694,7 @@
 
 ## Others 
 
+- [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -886,6 +887,7 @@
 
 ## Python 
 
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [PrithivirajDamodaran/Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - A framework for detecting, highlighting and correcting grammatical errors on natural language text. Created by Prithiviraj Damodaran. Open to pull requests and other forms of collaboration.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
@@ -974,7 +976,7 @@
 - [smallest-inc/smallest-python-sdk](https://github.com/smallest-inc/smallest-python-sdk) - Official Python client for the Smallest AI API
 - [reflex-dev/templates](https://github.com/reflex-dev/templates) - 
 - [Dapunta/TeraDL](https://github.com/Dapunta/TeraDL) - Terabox File Downloader & Video Streaming
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -1234,7 +1236,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
