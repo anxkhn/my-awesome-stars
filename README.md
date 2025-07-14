@@ -349,6 +349,7 @@
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
 - [eddiewebb/hugo-resume](https://github.com/eddiewebb/hugo-resume) - A Hugo theme ported from startbootrap.com's resume template
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
+- [binbard/leet-xt](https://github.com/binbard/leet-xt) - Supercharge your LeetCode practice - Add to Friends, Premium Features, per Contest Friends Rating, and more!
 - [wiz64/saavn-web-ui](https://github.com/wiz64/saavn-web-ui) - Saavn Music Player & MP3 Downloader - Web UI for saavn-unofficial api. Search and play ad-free music.
 - [JadenFurtado/LLaMaO](https://github.com/JadenFurtado/LLaMaO) - NLP, Transformers, LLMs and stuff like that
 - [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
@@ -434,7 +435,7 @@
 - [sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [paarth-arkadi/Java_Programs_Mumbai_University](https://github.com/paarth-arkadi/Java_Programs_Mumbai_University) - All Java programs in Mumbai University Electronics Engg. Syllabus Sem 3
 - [Welding-Torch/Java-Prac](https://github.com/Welding-Torch/Java-Prac) - Java Practical Exam Question Bank Solutions
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [devout-coder/mpr](https://github.com/devout-coder/mpr) - 
 - [sandino63/Interview](https://github.com/sandino63/Interview) - Interview Prep for Amazon , Cisco ,Google ,Microsoft,Apple, flipkart,Snapdeal , and other giants..
 - [chaitanya0305/JAVA-PROGRAMS-SEM-](https://github.com/chaitanya0305/JAVA-PROGRAMS-SEM-) - 
@@ -1481,7 +1482,6 @@
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped
 - [ni554n/truecallerjs_bot](https://github.com/ni554n/truecallerjs_bot) - A Telegram bot to lookup phone number info via Truecaller API
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [binbard/leet-xt](https://github.com/binbard/leet-xt) - Supercharge your LeetCode practice - Add to Friends, Premium Features, per Contest Friends Rating, and more!
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [sumitkolhe/jiosaavn-api](https://github.com/sumitkolhe/jiosaavn-api) - 🎵 An Unofficial API for downloading high-quality songs from JioSaavn
 - [ihmpavel/free-email-domains-list](https://github.com/ihmpavel/free-email-domains-list) - Fresh list of all free email domain providers. Can be used to check if an email address belongs to a company. Updated weekly.
