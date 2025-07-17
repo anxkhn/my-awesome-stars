@@ -184,7 +184,6 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
-- [reactiveui](#reactiveui)
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
@@ -252,7 +251,7 @@
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
 - [sunithvs/devb.io](https://github.com/sunithvs/devb.io) - DevB.io is an AI-powered portfolio generator that transforms your GitHub activity into a dynamic, professional portfolio. Focus on coding while DevB.io keeps your developer profile fresh and always up
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -260,7 +259,7 @@
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -385,7 +384,7 @@
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - [oscar0812/ApktoolFX](https://github.com/oscar0812/ApktoolFX) - A GUI for Apktool to make reverse engineering of android apps a breeze.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
@@ -711,7 +710,7 @@
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
-- [glomatico/votify](https://github.com/glomatico/votify) - Command-line app for downloading songs, podcasts and videos from Spotify.
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [NicholasDawson/ArchiverForGooglePhotos](https://github.com/NicholasDawson/ArchiverForGooglePhotos) - A tool to maintain an archive/mirror of your Google Photos library for backup purposes.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1609,7 +1608,7 @@
 - [Welding-Torch/Java-Prac](https://github.com/Welding-Torch/Java-Prac) - Java Practical Exam Question Bank Solutions
 - [anxkhn/sem3-labs](https://github.com/anxkhn/sem3-labs) - Personal Code Repo for MU IT Sem 3 Labs
 - [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [Octet3290/Leetcode-Questions](https://github.com/Octet3290/Leetcode-Questions) - 🎲 Contribute your favorite 📚 Data Structure implementation, 🌱Algorithms | Very Active Repository, Star and Share with your friends |
 - [parubok/awesome-swing](https://github.com/parubok/awesome-swing) - A list of frameworks, libraries and software for the Java Swing GUI toolkit.
 - [Charmve/LeetCode4FLAG](https://github.com/Charmve/LeetCode4FLAG) - 🔥 🔥 High frequent interview LeetCode 100 for FaceBook，Linkedin，Amazon，Google，Microsoft. More importantly, the problems' solutions are provided，include C++, Python and Java.
@@ -1740,7 +1739,7 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [Domi04151309/BatteryTool](https://github.com/Domi04151309/BatteryTool) - Battery Tool helps you save battery by stopping apps that are running in the background.
 - [sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
 
@@ -2187,7 +2186,7 @@
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations) - A site for viewing and analyzing the info of the organizations participating in Google Summer of Code.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [ninadnaik10/shortomega](https://github.com/ninadnaik10/shortomega) - A simple and modern URL shortener built with Next.js, NestJS, and Redis.
@@ -2285,6 +2284,8 @@
 
 ## others 
 
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [PrajwalDhule/gary-oak-badge-exporter](https://github.com/PrajwalDhule/gary-oak-badge-exporter) - 
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [gslxr/Screen-Shooting-Resilient-Document-Image-Watermarking](https://github.com/gslxr/Screen-Shooting-Resilient-Document-Image-Watermarking) - 
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
@@ -2305,7 +2306,7 @@
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [fossunited/forklore](https://github.com/fossunited/forklore) - Forklore brings you confessions, quirks, and the occasional rant from India’s open source keepers.
 - [Prat011/free-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
-- [unslothai/notebooks](https://github.com/unslothai/notebooks) - Fine-tune LLMs for free with 100+ Notebooks on Google Colab, Kaggle, and more.
+- [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
@@ -2324,7 +2325,7 @@
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals) - This repository serves as an archive of GSoC - Google Summer of Code accepted proposals of IIT (BHU), Varanasi students.
 - [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [aclap-dev/video-downloadhelper](https://github.com/aclap-dev/video-downloadhelper) - Download Helper
 - [european-summer-of-code/esoc2025](https://github.com/european-summer-of-code/esoc2025) - European Summer of Code 2025 - Information and Projects
 - [multi-swe-bench/multi-swe-bench](https://github.com/multi-swe-bench/multi-swe-bench) - Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving
@@ -2929,7 +2930,7 @@
 
 ## privacy 
 
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -3015,7 +3016,7 @@
 - [kokasmark/Pype](https://github.com/kokasmark/Pype) - Python + HTML desktop app framework
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-- [glomatico/votify](https://github.com/glomatico/votify) - Command-line app for downloading songs, podcasts and videos from Spotify.
+- [glomatico/votify](https://github.com/glomatico/votify) - A command-line app for downloading songs, podcasts and videos from Spotify.
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
@@ -3289,10 +3290,6 @@
 - [codemagic-ci-cd/codemagic-sample-projects](https://github.com/codemagic-ci-cd/codemagic-sample-projects) - A collection of sample apps built with Codemagic CI/CD. Please see the codemagic.yaml file for a sample workflow configuration.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
-## reactiveui 
-
-- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer for Windows 10 and 11.
-
 ## reactjs 
 
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -3402,7 +3399,7 @@
 ## security 
 
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
