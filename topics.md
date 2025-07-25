@@ -155,6 +155,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [objective-c](#objective-c)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -399,7 +400,7 @@
 - [K3V1991/ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-- [D4rK7355608/com.d4rk.qrcodescanner.plus](https://github.com/D4rK7355608/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
+- [MihaiCristianCondrea/com.d4rk.qrcodescanner.plus](https://github.com/MihaiCristianCondrea/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
 
 ## angular 
 
@@ -1424,7 +1425,7 @@
 - [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
 - [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
 - [tramlinehq/tramline](https://github.com/tramlinehq/tramline) - Release coordination and deployment platform, just for your mobile apps
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source composable CDP -  alternative to hightouch and census.
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -1756,7 +1757,7 @@
 
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 - [build-on-aws/cloud-clubs-learner-library](https://github.com/build-on-aws/cloud-clubs-learner-library) - A library for learners! Whether or not you're a part of AWS Cloud Clubs, take a look in this library for free, open, leveled content for students 18+ worldwide
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
@@ -1935,6 +1936,7 @@
 
 ## macos 
 
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [l1npengtul/nokhwa](https://github.com/l1npengtul/nokhwa) - Cross Platform Rust Library for Powerful Webcam/Camera Capture
@@ -1994,7 +1996,7 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-- [D4rK7355608/com.d4rk.qrcodescanner.plus](https://github.com/D4rK7355608/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
+- [MihaiCristianCondrea/com.d4rk.qrcodescanner.plus](https://github.com/MihaiCristianCondrea/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
 
 ## microsoft 
 
@@ -2193,6 +2195,10 @@
 - [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models.
 - [mannekeenpis/100-days-of-python](https://github.com/mannekeenpis/100-days-of-python) - 🐍 The Complete Python Pro Bootcamp for 2021
 
+## objective-c 
+
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
+
 ## open-source 
 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -2297,6 +2303,10 @@
 
 ## others 
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
+- [leonboe1/QuickDrop](https://github.com/leonboe1/QuickDrop) - An enhanced version of NearDrop, a Google Quick Share app for macOS 📲
+- [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io) - A roadmap for "generative AI" learning resources
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [PrajwalDhule/gary-oak-badge-exporter](https://github.com/PrajwalDhule/gary-oak-badge-exporter) - 
@@ -2324,10 +2334,8 @@
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
-- [Mohammed-Yasin-Mulla/Sound](https://github.com/Mohammed-Yasin-Mulla/Sound) - 
+- [sohzm/systemAudioDump](https://github.com/sohzm/systemAudioDump) - macos cli that captures system audio and stdout's it as raw pcm
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [Ollama-Agent-Roll-Cage/oarc](https://github.com/Ollama-Agent-Roll-Cage/oarc) - a pip install version of ollama agent roll cage an agentic action-space playground
-- [Ollama-Agent-Roll-Cage/agentChef](https://github.com/Ollama-Agent-Roll-Cage/agentChef) - 🔪agentChef is a comprehensive Python library for AI research, dataset generation, and conversation management using large language models. It provides tools for crawling, processing, and analyzing dat
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [anxkhn/placement-data-2025](https://github.com/anxkhn/placement-data-2025) - A 800+ entry dataset of verified software/tech full-time roles and internships across India’s Tier 1, 2, and 3 colleges. Includes base salary, CTC, stipend, location, and role details. Built for 2025 
 - [gitwitorg/react-eval](https://github.com/gitwitorg/react-eval) - Framework to evaluate LLM generated ReactJS code.
@@ -2384,7 +2392,7 @@
 - [MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases](https://github.com/MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases) - Text to Video of various PIB Press Releases using Artificial Intelligence / Machine Learning / Generative Adversarial Networks in English and 13 Regional Languages viz. Hindi, Urdu, Punjabi, Gujarati,
 - [SafeExamBrowser/seb-server](https://github.com/SafeExamBrowser/seb-server) - The Safe Exam Browser Server web application simplifies and centralizes the configuration of SEB clients for exams. It interacts with a learning management or exam system for setting up and conducting
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes, preserves, and generates unmodified stock OTA images, full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers. It provides eas
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images. It provides
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [njraladdin/screen-demo](https://github.com/njraladdin/screen-demo) - A lightweight screen recording and editing tool with zoom animations, cursor tracking, and background customization. An open-source alternative to Screen.studio.
@@ -3417,7 +3425,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 - [FourCoreLabs/TrustedInstallerPOC](https://github.com/FourCoreLabs/TrustedInstallerPOC) - A simple go Proof of Concept to start a new shell as TrustedInstaller
 - [AnthonyByansi/GitHub-Certifications-Preparation-Guides](https://github.com/AnthonyByansi/GitHub-Certifications-Preparation-Guides) - 🚀 Your ultimate GitHub certification destination, offering a rich resource hub for mastering GitHub Foundations, GitHub Actions, GitHub Advanced Security, and GitHub Administration, all in one place
 - [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer.
@@ -3550,6 +3558,7 @@
 
 ## swift 
 
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [erenkabakci/WWDC-Recap](https://github.com/erenkabakci/WWDC-Recap) - A collection of session summaries in markdown format, from WWDC 20, 19 & 17
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
