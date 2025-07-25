@@ -307,7 +307,7 @@
 - [Adit0507/habit-tracker](https://github.com/Adit0507/habit-tracker) - Implemented a gRPC service using Protocol Buffers
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor).
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 - [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons) - "Fork" of official skill-icons repository. Showcase your skills on your Github readme or resumé with ease ✨
 - [damasamirulkarim/go-hexagonal-architecture](https://github.com/damasamirulkarim/go-hexagonal-architecture) - Go-Lang Hexagonal Architecture (also known as Ports and Adapters)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -670,7 +670,7 @@
 - [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
 - [CasperVerswijvelt/Better-Internet-Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
-- [D4rK7355608/com.d4rk.qrcodescanner.plus](https://github.com/D4rK7355608/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
+- [MihaiCristianCondrea/com.d4rk.qrcodescanner.plus](https://github.com/MihaiCristianCondrea/com.d4rk.qrcodescanner.plus) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
 
 ## Lua 
 
@@ -698,6 +698,7 @@
 
 ## Objective-C 
 
+- [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 - [cynthia/WorldWideWeb](https://github.com/cynthia/WorldWideWeb) - Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep. Originally written by @timbl.
 
 ## Others 
@@ -916,8 +917,6 @@
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
 - [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
-- [Ollama-Agent-Roll-Cage/oarc](https://github.com/Ollama-Agent-Roll-Cage/oarc) - a pip install version of ollama agent roll cage an agentic action-space playground
-- [Ollama-Agent-Roll-Cage/agentChef](https://github.com/Ollama-Agent-Roll-Cage/agentChef) - 🔪agentChef is a comprehensive Python library for AI research, dataset generation, and conversation management using large language models. It provides tools for crawling, processing, and analyzing dat
 - [codezonediitj/pydatastructs](https://github.com/codezonediitj/pydatastructs) - A python package for data structures and algorithms
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -1310,7 +1309,7 @@
 ## Shell 
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes, preserves, and generates unmodified stock OTA images, full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers. It provides eas
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images. It provides
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -1346,8 +1345,11 @@
 
 ## Swift 
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
+- [leonboe1/QuickDrop](https://github.com/leonboe1/QuickDrop) - An enhanced version of NearDrop, a Google Quick Share app for macOS 📲
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [Mohammed-Yasin-Mulla/Sound](https://github.com/Mohammed-Yasin-Mulla/Sound) - 
+- [sohzm/systemAudioDump](https://github.com/sohzm/systemAudioDump) - macos cli that captures system audio and stdout's it as raw pcm
 - [farzaa/freewrite](https://github.com/farzaa/freewrite) - 
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
@@ -1372,6 +1374,7 @@
 
 ## TypeScript 
 
+- [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
