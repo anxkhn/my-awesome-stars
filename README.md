@@ -1462,7 +1462,7 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [KlausMikhaelson/emoji_mosaic_art](https://github.com/KlausMikhaelson/emoji_mosaic_art) - 
 - [code100x/cms](https://github.com/code100x/cms) - Repo for https://app.100xdevs.com/
-- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
 - [so-sc/devhost-2024](https://github.com/so-sc/devhost-2024) - Where Curiosity Meets Expertise.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
