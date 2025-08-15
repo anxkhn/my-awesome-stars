@@ -450,6 +450,7 @@
 
 ## JavaScript 
 
+- [BhaveshKukreja29/KingsGambit](https://github.com/BhaveshKukreja29/KingsGambit) - A one on one chess playing platform with room based matches and video calling integrated.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [PrajwalDhule/gary-oak-badge-exporter](https://github.com/PrajwalDhule/gary-oak-badge-exporter) - 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
