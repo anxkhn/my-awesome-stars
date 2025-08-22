@@ -474,7 +474,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [sumimakito/Awesome-qr.js](https://github.com/sumimakito/Awesome-qr.js) - An awesome QR code generator written in JavaScript.
-- [drshounak/Twin-Url](https://github.com/drshounak/Twin-Url) - A very simple URL shortner built on top of Cloudflare Workers.
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -708,6 +707,7 @@
 
 ## Others 
 
+- [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) - Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README
 - [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -1239,7 +1239,7 @@
 ## Ruby 
 
 - [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
-- [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
+- [antiwork/flexile](https://github.com/antiwork/flexile) - Contractor payments
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 - [madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails) - Learn best practices to build an API using Ruby on Rails 5/6
 - [training-mode/ruby](https://github.com/training-mode/ruby) - Ruby training for friends
