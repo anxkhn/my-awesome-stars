@@ -221,6 +221,9 @@
 
 ## CSS 
 
+- [codewithsadee/fitlife](https://github.com/codewithsadee/fitlife) - Fitlife is a fully responsive fitness website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/music-player](https://github.com/codewithsadee/music-player) - A fully responsive web music player using vanilla javascript, Responsive for all devices, build using html, css, and javascript.
+- [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io) - A roadmap for "generative AI" learning resources
 - [cs50/cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
 - [jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project](https://github.com/jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project) - A Flask + Tailwind CSS + HTMX sample project
@@ -274,6 +277,7 @@
 
 ## Go 
 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [SwishHQ/spread](https://github.com/SwishHQ/spread) - A code-push compatible OTA update server for React Native 🪂
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) - Razorpay's Official MCP Server
@@ -332,6 +336,32 @@
 
 ## HTML 
 
+- [codewithsadee/woodex](https://github.com/codewithsadee/woodex) - Woodex is a fully responsive furniture ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/innohub](https://github.com/codewithsadee/innohub) - InnoHub is a fully responsive digital marketing agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/devblog-personal-blog-website](https://github.com/codewithsadee/devblog-personal-blog-website) - DevBlog is a personal blog website.
+- [codewithsadee/kitter](https://github.com/codewithsadee/kitter) - Kitter is a fully responsive petshop ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/cryptex](https://github.com/codewithsadee/cryptex) - Cryptex is a fully responsive cryptocurrency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/desinic](https://github.com/codewithsadee/desinic) - Desinic is fully responsive agency website
+- [codewithsadee/pfolio](https://github.com/codewithsadee/pfolio) - A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/glowing](https://github.com/codewithsadee/glowing) - Glowing is a fully responsive ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/gamics](https://github.com/codewithsadee/gamics) - Gamics is a fully responsive gaming website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/pixology](https://github.com/codewithsadee/pixology) - Pixology is a fully responsive digital agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/ridex](https://github.com/codewithsadee/ridex) - Ridex is fully responsive car rental website
+- [codewithsadee/tourest](https://github.com/codewithsadee/tourest) - Tourest is fully responsive travel website
+- [codewithsadee/footcap](https://github.com/codewithsadee/footcap) - Footcap is fully responsive ecommerce website
+- [codewithsadee/eduweb](https://github.com/codewithsadee/eduweb) - EduWeb is a fully responsive education website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/wren](https://github.com/codewithsadee/wren) - Wren is a fully responsive personal blog website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/dashboard](https://github.com/codewithsadee/dashboard) - This dashboard is fully responsive for all devices
+- [codewithsadee/foodie](https://github.com/codewithsadee/foodie) - Foodie is a fully responsive fast food website.
+- [codewithsadee/julia-portfolio](https://github.com/codewithsadee/julia-portfolio) - A fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/homeverse](https://github.com/codewithsadee/homeverse) - Homeverse is fully responsive Real estate website
+- [codewithsadee/filmlane](https://github.com/codewithsadee/filmlane) - Filmlane is a fully responsive movie website page
+- [codewithsadee/tourly](https://github.com/codewithsadee/tourly) - Tourly is fully responsive travel website
+- [codewithsadee/jack-portfolio](https://github.com/codewithsadee/jack-portfolio) - This website is fully responsive personal portfolio
+- [codewithsadee/grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.
+- [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website) - Fully responsive ecommerce website, built using HTML CSS and JavaScript.
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+- [codewithsadee/cozynest](https://github.com/codewithsadee/cozynest) - A modern and fully responsive eCommerce landing page
 - [anxkhn/azure-ai-900-exam-prep](https://github.com/anxkhn/azure-ai-900-exam-prep) - Notes and previous questions which helped me pass the AI-900 exam on the first attempt, for free. Includes cram and preparation strategies.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
@@ -397,6 +427,7 @@
 
 ## Java 
 
+- [n3a9/google-foobar](https://github.com/n3a9/google-foobar) - My Google Foo Bar Challenges 🤓 🧮
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
 - [SafeExamBrowser/seb-server](https://github.com/SafeExamBrowser/seb-server) - The Safe Exam Browser Server web application simplifies and centralizes the configuration of SEB clients for exams. It interacts with a learning management or exam system for setting up and conducting
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
@@ -450,6 +481,7 @@
 
 ## JavaScript 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [BhaveshKukreja29/KingsGambit](https://github.com/BhaveshKukreja29/KingsGambit) - A one on one chess playing platform with room based matches and video calling integrated.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [PrajwalDhule/gary-oak-badge-exporter](https://github.com/PrajwalDhule/gary-oak-badge-exporter) - 
@@ -593,6 +625,10 @@
 
 ## Jupyter Notebook 
 
+- [mlabonne/how-to-data-science](https://github.com/mlabonne/how-to-data-science) - Scripts, notebooks, and articles about data science in general.
+- [mlabonne/linear-programming-course](https://github.com/mlabonne/linear-programming-course) - Hands-on course about linear programming and mathematical optimization.
+- [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) - Free hands-on course about Graph Neural Networks using PyTorch Geometric.
+- [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.
@@ -706,6 +742,7 @@
 
 ## Others 
 
+- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
 - [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) - Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README
 - [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
@@ -904,6 +941,8 @@
 
 ## Python 
 
+- [awslabs/graphstorm](https://github.com/awslabs/graphstorm) - Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.
+- [mlabonne/llm-autoeval](https://github.com/mlabonne/llm-autoeval) - Automatically evaluate your LLMs in Google Colab
 - [githubpradeep/llm_np_cp](https://github.com/githubpradeep/llm_np_cp) - running llama gemma on cupy and numpy
 - [anxkhn/IPMapper](https://github.com/anxkhn/IPMapper) - Fast offline IP-to-country lookup using RIR data with country names and currency support python package
 - [langchain-ai/multi-modal-researcher](https://github.com/langchain-ai/multi-modal-researcher) - 
@@ -973,7 +1012,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [shantanuparabumd/automate_linkedin](https://github.com/shantanuparabumd/automate_linkedin) - 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
@@ -1258,6 +1297,7 @@
 
 ## Rust 
 
+- [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [raymanfx/eye-rs](https://github.com/raymanfx/eye-rs) - Cross platform camera capture in Rust
@@ -1399,7 +1439,7 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Postman for MCPs - A tool for testing and debugging MCPs
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - MCP Testing Platform - Playground to test and debug MCP servers
 - [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
@@ -1434,7 +1474,7 @@
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yoavg/pdf-tab-renamer](https://github.com/yoavg/pdf-tab-renamer) - chrome extension for renaming tabs showing paper-pdfs from common providers
@@ -1470,7 +1510,7 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [KlausMikhaelson/emoji_mosaic_art](https://github.com/KlausMikhaelson/emoji_mosaic_art) - 
 - [code100x/cms](https://github.com/code100x/cms) - Repo for https://app.100xdevs.com/
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [so-sc/devhost-2024](https://github.com/so-sc/devhost-2024) - Where Curiosity Meets Expertise.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
