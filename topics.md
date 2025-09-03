@@ -426,6 +426,7 @@
 
 ## api 
 
+- [jeet-dekivadia/google-deepmind](https://github.com/jeet-dekivadia/google-deepmind) - HALO - Hierarchical Abstraction for Longform Optimization
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API
 - [datavorous/yars](https://github.com/datavorous/yars) - Yet Another Reddit Scrapper (without API keys) | Scrap search results, posts and images from subreddits filtered by hot, new etc and bulk download any user's data.
 - [nordmarin/gsmarena-api](https://github.com/nordmarin/gsmarena-api) - Parse GSMArena website then return data as JSON
