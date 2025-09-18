@@ -162,6 +162,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -776,6 +777,7 @@
 
 ## code-quality 
 
+- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
@@ -2293,6 +2295,12 @@
 
 - [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 
+## obsidian 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+
 ## obsidian-md 
 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -2465,7 +2473,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
 - [btw-so/open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [dillionverma/portfolio](https://github.com/dillionverma/portfolio) - Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Shadcn UI and Magic UI
 - [adenta/fire_red_agent](https://github.com/adenta/fire_red_agent) - 
 - [bytedance/web-bench](https://github.com/bytedance/web-bench) - Web-Bench is a benchmark designed to evaluate the performance of LLMs in actual Web development.
@@ -2623,7 +2631,7 @@
 - [techwithtim/AI-Image-Generator](https://github.com/techwithtim/AI-Image-Generator) - 
 - [dishapatel010/AmazonPayHistoryIN](https://github.com/dishapatel010/AmazonPayHistoryIN) - browser extension designed to extract and export payment transaction details from the Amazon India Payment History page. This tool allows users to efficiently download a formatted HTML file containing
 - [SiddhantDembi/SEM-7-Previous-Year-Papers](https://github.com/SiddhantDembi/SEM-7-Previous-Year-Papers) - 
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
 - [razorpay/ifsc](https://github.com/razorpay/ifsc) - :bank: IFSC Codes Repository
 - [Emosans/BomberMan](https://github.com/Emosans/BomberMan) - 
