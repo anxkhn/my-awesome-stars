@@ -377,7 +377,7 @@
 - [annabelsandford/rabbit-r1-imeigen](https://github.com/annabelsandford/rabbit-r1-imeigen) - A Javascript-based tool to generate and validate IMEI numbers for Rabbit R1 devices.
 - [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A massive list including a huge amount of products and services that are completely free!
+- [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [codewithsadee/smith-portfolio](https://github.com/codewithsadee/smith-portfolio) - Smith is a fully responsive personal portfolio website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [mdbootstrap/bootstrap-fluent-design](https://github.com/mdbootstrap/bootstrap-fluent-design) - Fluent Design Theme for Bootstrap - inspired by Windows style and based on the latest Bootstrap 5.
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
@@ -750,7 +750,6 @@
 
 ## Others 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [dnaprawa/dockerfile-best-practices](https://github.com/dnaprawa/dockerfile-best-practices) - Dockerfile Best Practices
 - [varunvasudeva1/llm-server-docs](https://github.com/varunvasudeva1/llm-server-docs) - End-to-end documentation to set up your own local & fully private LLM server on Debian. Equipped with chat, web search, RAG, model management, MCP servers, image generation, and TTS.
@@ -956,6 +955,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [pymatting/pymatting](https://github.com/pymatting/pymatting) - A Python library for alpha matting
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
@@ -1321,7 +1321,7 @@
 - [codedex-io/python-101](https://github.com/codedex-io/python-101) - The Legend of Python 🐍
 - [zerodytrash/YouTube-Internal-Clients](https://github.com/zerodytrash/YouTube-Internal-Clients) - A python script that discovers hidden YouTube API clients. Just a research project.
 - [JadenFurtado/geoAbuseIPDB](https://github.com/JadenFurtado/geoAbuseIPDB) - A wrapper around abuseIP DB to plot IPs onto maps
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
@@ -1500,6 +1500,8 @@
 
 ## TypeScript 
 
+- [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
@@ -1510,12 +1512,11 @@
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - MCP Testing Platform - Playground to test and debug MCP servers
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visually inspect MCP servers
 - [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
