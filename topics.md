@@ -257,6 +257,7 @@
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
 - [xcode](#xcode)
+- [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
@@ -539,6 +540,7 @@
 
 ## awesome 
 
+- [reflex-dev/awesome-reflex](https://github.com/reflex-dev/awesome-reflex) - Python web framework for building both your frontend and backend with no JavaScript
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -573,6 +575,7 @@
 
 ## awesome-list 
 
+- [reflex-dev/awesome-reflex](https://github.com/reflex-dev/awesome-reflex) - Python web framework for building both your frontend and backend with no JavaScript
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
@@ -726,6 +729,7 @@
 
 ## chatgpt 
 
+- [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -781,6 +785,7 @@
 
 ## chrome-extension 
 
+- [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [isanchop/stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 - [gsoni1/taxes.fyi](https://github.com/gsoni1/taxes.fyi) - A chrome extension that makes it effortless to view after-tax salary estimates directly on levels.fyi — helping you get a clearer picture of real take-home pay.
@@ -944,6 +949,7 @@
 
 ## css 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [fontseca/playground](https://github.com/fontseca/playground) - A web-based HTTP client designed for testing raw web APIs or those imported from Postman collections in JSON format. This tool functions as a plugin on my website, primarily to highlight my work as a 
 - [fontseca/fontseca.dev](https://github.com/fontseca/fontseca.dev) - This is the source code of my website. The result of an unquenchable desire for having my own space. I enjoyed every moment of the long development process and feel joyous to share it with you. Hope i
@@ -1454,6 +1460,8 @@
 
 ## go 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Zomato/espresso](https://github.com/Zomato/espresso) - espresso
@@ -1588,6 +1596,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
@@ -1673,6 +1682,7 @@
 
 ## html 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [codewithsadee/cozynest](https://github.com/codewithsadee/cozynest) - A modern and fully responsive eCommerce landing page
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -1807,6 +1817,8 @@
 
 ## javascript 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [tomer8007/whatsapp-web-incognito](https://github.com/tomer8007/whatsapp-web-incognito) - A Chrome extension that disables read receipts and presence updates on WhatsApp Web
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
@@ -1892,6 +1904,7 @@
 
 ## js 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [mehotkhan/BandersnatchInteractive](https://github.com/mehotkhan/BandersnatchInteractive) - Bandersnatch Interactive Player (based on html5 video player)
 - [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1901,6 +1914,7 @@
 
 ## json 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [datavorous/yars](https://github.com/datavorous/yars) - Yet Another Reddit Scrapper (without API keys) | Scrap search results, posts and images from subreddits filtered by hot, new etc and bulk download any user's data.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2031,6 +2045,7 @@
 
 ## llm 
 
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
@@ -2183,6 +2198,7 @@
 
 ## markdown 
 
+- [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README
@@ -2551,6 +2567,12 @@
 
 ## others 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+- [yonnies/functional-trading](https://github.com/yonnies/functional-trading) - Financial Contracts eDSL & Valuation in Haskell. Final year dissertation project for my bachalors degree at University of Nottigham.
+- [afshinea/stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) - a simple transcription library for rust
 - [meodai/color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
@@ -3324,6 +3346,7 @@
 
 ## python 
 
+- [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -3899,6 +3922,7 @@
 
 ## stable-diffusion 
 
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
@@ -4265,6 +4289,10 @@
 
 - [SafeExamBrowser/seb-mac](https://github.com/SafeExamBrowser/seb-mac) - Safe Exam Browser for macOS and iOS
 - [erenkabakci/WWDC-Recap](https://github.com/erenkabakci/WWDC-Recap) - A collection of session summaries in markdown format, from WWDC 20, 19 & 17
+
+## xml 
+
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
 ## youtube 
 
