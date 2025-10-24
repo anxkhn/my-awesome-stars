@@ -1195,7 +1195,7 @@
 - [fredericojordan/progress-bar](https://github.com/fredericojordan/progress-bar) - 📊 Flask API for SVG progress badges
 - [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) - Flutter Reverse Engineering Framework
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [openai/grok](https://github.com/openai/grok) - 
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
