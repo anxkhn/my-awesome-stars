@@ -72,7 +72,7 @@
 
 ## Assembly 
 
-- [mohammad-ghaderi/mnist-asm-nn](https://github.com/mohammad-ghaderi/mnist-asm-nn) - A complete neural network built entirely in x86 assembly language that learns to recognize handwritten digits from the MNIST dataset. No frameworks, no high-level languages - just pure assembly - ~7× 
+- [mohammad-ghaderi/mnist-asm-nn](https://github.com/mohammad-ghaderi/mnist-asm-nn) - A complete neural network built entirely in x86 assembly language that learns to recognize handwritten digits from the MNIST dataset. No frameworks, no high-level languages - just pure assembly - ~5.3
 - [lrh2000/Xiaomi-bootloader](https://github.com/lrh2000/Xiaomi-bootloader) - Some research about the bootloader used in Xiaomi phones.
 
 ## Astro 
@@ -227,6 +227,7 @@
 - [codewithsadee/music-player](https://github.com/codewithsadee/music-player) - A fully responsive web music player using vanilla javascript, Responsive for all devices, build using html, css, and javascript.
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io) - A roadmap for "generative AI" learning resources
+- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [cs50/cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
 - [jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project](https://github.com/jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project) - A Flask + Tailwind CSS + HTMX sample project
 - [cdbaca/ssg](https://github.com/cdbaca/ssg) - A copycat static site generator to own your own data.
@@ -278,6 +279,7 @@
 
 ## Go 
 
+- [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for provably private AI inference
 - [fayazara/pocketvue](https://github.com/fayazara/pocketvue) - A single binary Go + Vue saas starter kit
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -799,7 +801,7 @@
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -970,6 +972,8 @@
 
 ## Python 
 
+- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) - A repo lists papers related to LLM based agent
 - [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo 
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
@@ -1030,7 +1034,6 @@
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [awslabs/graphstorm](https://github.com/awslabs/graphstorm) - Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.
 - [mlabonne/llm-autoeval](https://github.com/mlabonne/llm-autoeval) - Automatically evaluate your LLMs in Google Colab
-- [githubpradeep/llm_np_cp](https://github.com/githubpradeep/llm_np_cp) - Distributed LLM inference engine for CPU
 - [anxkhn/IPMapper](https://github.com/anxkhn/IPMapper) - Fast offline IP-to-country lookup using RIR data with country names and currency support python package
 - [langchain-ai/multi-modal-researcher](https://github.com/langchain-ai/multi-modal-researcher) - 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1098,7 +1101,6 @@
 - [StarsfieldAI/R1-V](https://github.com/StarsfieldAI/R1-V) - Witness the aha moment of VLM with less than $3.
 - [yashbhangale/lenovo-vantage-features-for-linux](https://github.com/yashbhangale/lenovo-vantage-features-for-linux) - Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlik
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
@@ -1531,7 +1533,7 @@
 ## TypeScript 
 
 - [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creat
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [rpgeeganage/pII-guard](https://github.com/rpgeeganage/pII-guard) - 🛡️ PII Guard is an LLM-powered tool that detects and manages Personally Identifiable Information (PII) in logs — designed to support data privacy and GDPR compliance
@@ -1553,7 +1555,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visually inspect MCP servers
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visual inspector for MCP server - Postman for MCP
 - [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
@@ -1588,6 +1590,7 @@
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yoavg/pdf-tab-renamer](https://github.com/yoavg/pdf-tab-renamer) - chrome extension for renaming tabs showing paper-pdfs from common providers
@@ -1625,7 +1628,6 @@
 - [code100x/cms](https://github.com/code100x/cms) - Repo for https://app.100xdevs.com/
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [so-sc/devhost-2024](https://github.com/so-sc/devhost-2024) - Where Curiosity Meets Expertise.
-- [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
 - [code100x/muzer](https://github.com/code100x/muzer) - 
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
