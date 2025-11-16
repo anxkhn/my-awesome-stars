@@ -348,7 +348,7 @@
 ## HTML 
 
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [codewithsadee/woodex](https://github.com/codewithsadee/woodex) - Woodex is a fully responsive furniture ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [codewithsadee/innohub](https://github.com/codewithsadee/innohub) - InnoHub is a fully responsive digital marketing agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [codewithsadee/devblog-personal-blog-website](https://github.com/codewithsadee/devblog-personal-blog-website) - DevBlog is a personal blog website.
@@ -1079,7 +1079,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [tattle-made/feluda](https://github.com/tattle-made/feluda) - A configurable engine for analysing multi-lingual and multi-modal content.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
 - [pypa/bandersnatch](https://github.com/pypa/bandersnatch) - A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
 - [google/bumble](https://github.com/google/bumble) - 
@@ -1103,7 +1103,6 @@
 - [StarsfieldAI/R1-V](https://github.com/StarsfieldAI/R1-V) - Witness the aha moment of VLM with less than $3.
 - [yashbhangale/lenovo-vantage-features-for-linux](https://github.com/yashbhangale/lenovo-vantage-features-for-linux) - Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlik
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
@@ -1462,6 +1461,7 @@
 
 ## Shell 
 
+- [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [sugarlabs/GSoC](https://github.com/sugarlabs/GSoC) - A guide for participating in Google Summer of Code with Sugar Labs
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -1594,6 +1594,7 @@
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [yoavg/pdf-tab-renamer](https://github.com/yoavg/pdf-tab-renamer) - chrome extension for renaming tabs showing paper-pdfs from common providers
