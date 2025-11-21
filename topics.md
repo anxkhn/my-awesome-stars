@@ -2939,8 +2939,8 @@
 - [rtCamp/Frappe-Manager](https://github.com/rtCamp/Frappe-Manager) - A CLI tool based on Docker Compose to easily manage Frappe based projects.
 - [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 - [endingwithali/another-computer-history-media-list](https://github.com/endingwithali/another-computer-history-media-list) - an awesome list of computer history media that has been collected
-- [arshxyz/OpenAuthenticator](https://github.com/arshxyz/OpenAuthenticator) - A simple open-source, cross-platform, TOTP-based Authenticator for desktop that even your grandma could use :)
-- [arshxyz/webtypist](https://github.com/arshxyz/webtypist) - A typing tutor inspired by GNU Typist.
+- [arshzip/OpenAuthenticator](https://github.com/arshzip/OpenAuthenticator) - A simple open-source, cross-platform, TOTP-based Authenticator for desktop that even your grandma could use :)
+- [arshzip/webtypist](https://github.com/arshzip/webtypist) - A typing tutor inspired by GNU Typist.
 - [batuhanbilginn/nextjs-portfolio-bento-style](https://github.com/batuhanbilginn/nextjs-portfolio-bento-style) - 
 - [saipranay47/bento-grid-portfolio](https://github.com/saipranay47/bento-grid-portfolio) - Bento Grid Portfolio Landing Page: A simple and elegant way to showcase your work, built with React and Tailwind CSS.
 - [rickyzhangca/apple-summary-slides](https://github.com/rickyzhangca/apple-summary-slides) - A collection of summary slides created Apple for WWDC and Apple Events
