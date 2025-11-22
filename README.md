@@ -801,6 +801,7 @@
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [SiddhantDembi/SEM-8-Previous-Year-Papers](https://github.com/SiddhantDembi/SEM-8-Previous-Year-Papers) - 
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -1501,7 +1502,7 @@
 
 ## Svelte 
 
-- [arshxyz/webtypist](https://github.com/arshxyz/webtypist) - A typing tutor inspired by GNU Typist.
+- [arshzip/webtypist](https://github.com/arshzip/webtypist) - A typing tutor inspired by GNU Typist.
 - [yxshv/yashverma.me](https://github.com/yxshv/yashverma.me) - My portfolio website, made with sveltekit + tailwind
 - [adityaoberai/Alt-Text-Generator](https://github.com/adityaoberai/Alt-Text-Generator) - Generate alt text for your images!
 
@@ -1645,7 +1646,7 @@
 - [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [pawanjenu/LeetcodeSessionManager](https://github.com/pawanjenu/LeetcodeSessionManager) - Multiple users using the same leetcode premium account made easy!
-- [arshxyz/OpenAuthenticator](https://github.com/arshxyz/OpenAuthenticator) - A simple open-source, cross-platform, TOTP-based Authenticator for desktop that even your grandma could use :)
+- [arshzip/OpenAuthenticator](https://github.com/arshzip/OpenAuthenticator) - A simple open-source, cross-platform, TOTP-based Authenticator for desktop that even your grandma could use :)
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [leoMirandaa/portfolio](https://github.com/leoMirandaa/portfolio) - Bento portfolio made with React.js, Next 14, NextUI, Tailwind, Motion One
 - [batuhanbilginn/nextjs-portfolio-bento-style](https://github.com/batuhanbilginn/nextjs-portfolio-bento-style) - 
