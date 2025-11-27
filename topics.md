@@ -11,6 +11,7 @@
 - [ajax](#ajax)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -45,6 +46,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -108,6 +110,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tools](#hacking-tools)
@@ -252,6 +255,7 @@
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -394,6 +398,34 @@
 ## algorithmic-trading 
 
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
+
+## algorithms 
+
+- [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
+- [codezonediitj/pydatastructs](https://github.com/codezonediitj/pydatastructs) - A python package for data structures and algorithms
+- [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
+- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.
+- [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
+- [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - Learn LeetCode and prepare for coding interviews with free resources.
+- [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+- [AnasImloul/Leetcode-Solutions](https://github.com/AnasImloul/Leetcode-Solutions) - A repository with over 7000 solutions to more than 1800 Leetcode problems written in C++, Python, Java, Javascript, Rust & Golang.
+- [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) - ⚡ Competitive Programming Library
+- [SamirPaulb/DSAlgo](https://github.com/SamirPaulb/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
+- [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+- [wingkwong/leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+- [shushrutsharma/Data-Structures-and-Algorithms-Python](https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python) - All the essential resources and template code needed to understand and practice data structures and algorithms in python with few small projects to demonstrate their practical application.
+- [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure) - Algorithms And DataStructure Implemented In Python, Java & CPP, Give a Star 🌟If it helps you
+- [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms) - The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
+- [Octet3290/Leetcode-Questions](https://github.com/Octet3290/Leetcode-Questions) - 🎲 Contribute your favorite 📚 Data Structure implementation, 🌱Algorithms | Very Active Repository, Star and Share with your friends |
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
+- [proghead00/Data-Structures-and-Algorithms-In-C-Cpp](https://github.com/proghead00/Data-Structures-and-Algorithms-In-C-Cpp) - This repo contains important DSA problems and solutions
+- [Bhupesh-V/30-seconds-of-cpp](https://github.com/Bhupesh-V/30-seconds-of-cpp) - 30 Seconds of C++ (STL in C++). Read More about 30C++ here 👉
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) - :pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.
 
 ## analytics 
 
@@ -879,6 +911,14 @@
 
 - [armankhondker/best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - Learn LeetCode and prepare for coding interviews with free resources.
 - [Charmve/LeetCode4FLAG](https://github.com/Charmve/LeetCode4FLAG) - 🔥 🔥 High frequent interview LeetCode 100 for FaceBook，Linkedin，Amazon，Google，Microsoft. More importantly, the problems' solutions are provided，include C++, Python and Java.
+
+## command-line 
+
+- [ajaxray/geek-life](https://github.com/ajaxray/geek-life) - The Todo List / Task Manager for Geeks in command line
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [vivekpal1/masterlinux](https://github.com/vivekpal1/masterlinux) - [wip]The most comprehensive guide to deal with all Linux things and commands.
 
 ## compiler 
 
@@ -1582,6 +1622,25 @@
 - [akarsh1995/leetcode-graphql-queries](https://github.com/akarsh1995/leetcode-graphql-queries) - Create leetcode plugins for your code editor, extensions for web browser, etc. from the graphql queries of various leetcode web pages.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
+
+## gui 
+
+- [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
+- [pytauri/pytauri](https://github.com/pytauri/pytauri) - Tauri binding for Python through Pyo3
+- [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) - File Explorer for Android devices
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
+- [Aashishkumar123/Python-GUI-Project](https://github.com/Aashishkumar123/Python-GUI-Project) - A Repositry that contains 20+ GUI Projects on python Tkinter
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
+- [oscar0812/ApktoolFX](https://github.com/oscar0812/ApktoolFX) - A GUI for Apktool to make reverse engineering of android apps a breeze.
+- [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) - GUI for apktool, signapk, zipalign and baksmali utilities.
+- [parubok/awesome-swing](https://github.com/parubok/awesome-swing) - A list of frameworks, libraries and software for the Java Swing GUI toolkit.
+- [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 
 ## hackathon 
 
@@ -2826,7 +2885,6 @@
 - [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [TheAirBlow/HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
@@ -3265,7 +3323,6 @@
 - [prateekv2003/pokedex](https://github.com/prateekv2003/pokedex) - 
 - [AbhigyanBafna/2yearsOfLabs](https://github.com/AbhigyanBafna/2yearsOfLabs) - College Codes Upto 2nd Year
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [proghead00/Data-Structures-and-Algorithms-In-C-Cpp](https://github.com/proghead00/Data-Structures-and-Algorithms-In-C-Cpp) - This repo contains important DSA problems and solutions
 - [Altafalam3/DSA](https://github.com/Altafalam3/DSA) - 
 - [tusharnankani/talks](https://github.com/tusharnankani/talks) - A list of talks I have given, formally.
 - [CasperVerswijvelt/Better-Internet-Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile
@@ -3274,7 +3331,6 @@
 - [sridhar-sp/tic-tac-toe](https://github.com/sridhar-sp/tic-tac-toe) - Tic-tac-toe game from markdown file. This is a learning attempt to see how interactive Github readme file can be. Checkout the backend code here. https://github.com/sridhar-sp/tic-tac-toe-backend
 - [sridhar-sp/tic-tac-toe-backend](https://github.com/sridhar-sp/tic-tac-toe-backend) - Backend server for a tic-tac-toe game. frontend is a simple .md file. Checkout: https://github.com/sridhar-sp/tic-tac-toe
 - [Cryptogenic/PS5-IPV6-Kernel-Exploit](https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on &lt;= 4.51FW
-- [Bhupesh-V/30-seconds-of-cpp](https://github.com/Bhupesh-V/30-seconds-of-cpp) - 30 Seconds of C++ (STL in C++). Read More about 30C++ here 👉
 - [codinasion/codinasion](https://github.com/codinasion/codinasion) - Collaborate, Create, Innovate : Together with Open Source ❤️
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [hermannheringer/facet4windows](https://github.com/hermannheringer/facet4windows) - PowerShell script to optimize Windows performance and reduce latency (24H2 compatible) for a better Data Science experience.
@@ -4297,6 +4353,10 @@
 - [build-on-aws/cloud-clubs-learner-library](https://github.com/build-on-aws/cloud-clubs-learner-library) - A library for learners! Whether or not you're a part of AWS Cloud Clubs, take a look in this library for free, open, leveled content for students 18+ worldwide
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+
+## web3 
+
+- [spo0ds/Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) - I'm sharing everything I'm learning to become a Blockchain Engineer
 
 ## webapp 
 
