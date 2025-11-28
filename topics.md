@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -185,6 +186,7 @@
 - [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [php](#php)
+- [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -271,6 +273,33 @@
 ## 3d 
 
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+
+## agent 
+
+- [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
+- [Reason-Wang/ToolGen](https://github.com/Reason-Wang/ToolGen) - [ICLR 2025] The official implementation of paper "ToolGen: Unified Tool Retrieval and Calling via Generation"
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
+- [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+- [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 
 ## ai 
 
@@ -2872,7 +2901,7 @@
 - [MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases](https://github.com/MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases) - Text to Video of various PIB Press Releases using Artificial Intelligence / Machine Learning / Generative Adversarial Networks in English and 13 Regional Languages viz. Hindi, Urdu, Punjabi, Gujarati,
 - [SafeExamBrowser/seb-server](https://github.com/SafeExamBrowser/seb-server) - The Safe Exam Browser Server web application simplifies and centralizes the configuration of SEB clients for exams. It interacts with a learning management or exam system for setting up and conducting
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images. It provides
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [njraladdin/screen-demo](https://github.com/njraladdin/screen-demo) - A lightweight screen recording and editing tool with zoom animations, cursor tracking, and background customization. An open-source alternative to Screen.studio.
@@ -3256,7 +3285,6 @@
 - [Altafalam3/SQLBasics](https://github.com/Altafalam3/SQLBasics) - A repo for basic SQL Commands
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users
-- [SirusCodes/portfolio](https://github.com/SirusCodes/portfolio) - My personal portfolio site
 - [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series) - This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.
 - [SaketThota/CP-templates](https://github.com/SaketThota/CP-templates) - This is palindroam's CP template
 - [SwatiSTiwari/e-commerce](https://github.com/SwatiSTiwari/e-commerce) - This repo contains all the backend work of a e-commerce project
@@ -3381,6 +3409,13 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
+
+## portfolio-website 
+
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
+- [sunithvs/devb.io](https://github.com/sunithvs/devb.io) - DevB.io is an AI-powered portfolio generator that transforms your GitHub activity into a dynamic, professional portfolio. Focus on coding while DevB.io keeps your developer profile fresh and always up
+- [PriontoAbdullah/PriontoAbdullah.github.io](https://github.com/PriontoAbdullah/PriontoAbdullah.github.io) - 🔥 This is my Personal Portfolio website. 🚀💻 Visit this amazing site: https://prionto-71.web.app/
+- [SirusCodes/portfolio](https://github.com/SirusCodes/portfolio) - My personal portfolio site
 
 ## postgresql 
 
