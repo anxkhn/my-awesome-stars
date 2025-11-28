@@ -1472,7 +1472,7 @@
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [sugarlabs/GSoC](https://github.com/sugarlabs/GSoC) - A guide for participating in Google Summer of Code with Sugar Labs
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images. It provides
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - This project indexes and preserves full firmware, and OTA update links for Nothing and CMF devices, sourced directly from official OEM servers while generating unmodified stock OTA images.
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [tldr-devops/startpack](https://github.com/tldr-devops/startpack) - Selfhosted tech starter pack for development of new project or startup
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
