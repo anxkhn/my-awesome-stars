@@ -211,7 +211,7 @@
 - [Altafalam3/CPPL-LAB](https://github.com/Altafalam3/CPPL-LAB) - 
 - [elkorf/BEIT](https://github.com/elkorf/BEIT) - B.E. in INFORMATION TECHNOLOGY
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
-- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+- [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for *.smal
 - [Manjunath0408/CPSnippets](https://github.com/Manjunath0408/CPSnippets) - This repository contains various code snippets of algorithms and data structures, frequently used in Competitive Programming.
 - [Octet3290/Leetcode-Questions](https://github.com/Octet3290/Leetcode-Questions) - 🎲 Contribute your favorite 📚 Data Structure implementation, 🌱Algorithms | Very Active Repository, Star and Share with your friends |
 - [optionalg/Leetcode-Amazon](https://github.com/optionalg/Leetcode-Amazon) - Amazon Interview Questions
@@ -256,6 +256,7 @@
 
 ## Dart 
 
+- [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
 - [tensorflow/flutter-tflite](https://github.com/tensorflow/flutter-tflite) - 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [domferr/Linux-PowerToys](https://github.com/domferr/Linux-PowerToys) - Get Microsoft's PowerToys utilities and much more to Linux world!
@@ -266,7 +267,7 @@
 - [SumilSuthar197/MAD-LAB](https://github.com/SumilSuthar197/MAD-LAB) - 
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [ekakshjanweja/NotWhatsapp](https://github.com/ekakshjanweja/NotWhatsapp) - 
 - [prasad1909/MedEasey](https://github.com/prasad1909/MedEasey) - 
 - [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark) - Backend benchmarking of Python, Node, and Dart frameworks
@@ -349,6 +350,7 @@
 
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
+- [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [codewithsadee/woodex](https://github.com/codewithsadee/woodex) - Woodex is a fully responsive furniture ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [codewithsadee/innohub](https://github.com/codewithsadee/innohub) - InnoHub is a fully responsive digital marketing agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
@@ -449,7 +451,6 @@
 - [SafeExamBrowser/seb-server](https://github.com/SafeExamBrowser/seb-server) - The Safe Exam Browser Server web application simplifies and centralizes the configuration of SEB clients for exams. It interacts with a learning management or exam system for setting up and conducting
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [Emosans/tic-tac-toe](https://github.com/Emosans/tic-tac-toe) - 
 - [znsio/teswiz](https://github.com/znsio/teswiz) - End-2-End framework for Native & Web Automation using Cucumber-jvm, Appium, Selenium WebDriver, Applitools & ReportPortal
@@ -978,6 +979,8 @@
 
 ## Python 
 
+- [somogyijanos/cursor-chat-export](https://github.com/somogyijanos/cursor-chat-export) - Export your chats from Cursor to Markdown.
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -1008,7 +1011,6 @@
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
-- [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -1541,6 +1543,7 @@
 
 ## TypeScript 
 
+- [kamath/clankerloop](https://github.com/kamath/clankerloop) - AI-assisted interviewing platform
 - [httptoolkit/httptoolkit-ui](https://github.com/httptoolkit/httptoolkit-ui) - The UI of HTTP Toolkit
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) - A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
@@ -1621,6 +1624,7 @@
 - [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
