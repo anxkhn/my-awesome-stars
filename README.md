@@ -979,6 +979,9 @@
 
 ## Python 
 
+- [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I'm absolutely right!
 - [somogyijanos/cursor-chat-export](https://github.com/somogyijanos/cursor-chat-export) - Export your chats from Cursor to Markdown.
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
@@ -1159,7 +1162,6 @@
 - [techwithtim/AI-Image-Generator](https://github.com/techwithtim/AI-Image-Generator) - 
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [anxkhn/FFpy](https://github.com/anxkhn/FFpy) - FFpy is a command-line tool that measures the execution time of Python scripts. It provides flexibility by allowing you to specify the time unit (milliseconds or seconds) and the number of runs for mo
@@ -1377,6 +1379,8 @@
 
 ## Ruby 
 
+- [rubysec/ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - A database of vulnerable Ruby Gems
+- [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 - [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
@@ -1400,6 +1404,8 @@
 
 ## Rust 
 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) - a simple transcription library for rust
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
@@ -1546,6 +1552,8 @@
 
 ## TypeScript 
 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
 - [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor
 - [kamath/clankerloop](https://github.com/kamath/clankerloop) - AI-assisted interviewing platform
