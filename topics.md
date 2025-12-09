@@ -338,7 +338,7 @@
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -815,6 +815,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test ChatGPT apps, MCP apps, and MCP servers.
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
@@ -1311,6 +1312,7 @@
 
 ## documentation 
 
+- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [universal-tool-calling-protocol/utcp-specification](https://github.com/universal-tool-calling-protocol/utcp-specification) - The specification for the Universal Tool Calling Protocol
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -2190,6 +2192,7 @@
 
 ## llm 
 
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) - A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
@@ -2626,7 +2629,7 @@
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations) - A site for viewing and analyzing the info of the organizations participating in Google Summer of Code.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [ImKKingshuk/Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer commu
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [ninadnaik10/shortomega](https://github.com/ninadnaik10/shortomega) - A simple and modern URL shortener built with Next.js, NestJS, and Redis.
@@ -2729,6 +2732,7 @@
 
 ## others 
 
+- [tkattkat/open-claude](https://github.com/tkattkat/open-claude) - 
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -3537,6 +3541,7 @@
 
 ## python 
 
+- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
@@ -4313,7 +4318,6 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Visual inspector for MCP server - Postman for MCP
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
