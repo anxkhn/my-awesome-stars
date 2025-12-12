@@ -2759,6 +2759,9 @@
 
 ## others 
 
+- [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [tobie/ua-parser](https://github.com/tobie/ua-parser) - A multi-language port of Browserscope's user agent parser.
