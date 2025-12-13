@@ -44,6 +44,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [Ren'Py](#ren'py)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -503,7 +504,8 @@
 
 ## JavaScript 
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [ua-parser/uap-core](https://github.com/ua-parser/uap-core) - The regex file necessary to build language ports of Browserscope's user agent parser.
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
@@ -779,6 +781,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode com
 - [reflex-dev/awesome-reflex](https://github.com/reflex-dev/awesome-reflex) - Python web framework for building both your frontend and backend with no JavaScript
@@ -789,7 +792,6 @@
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
 - [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) - Australian companies that provide work visa (and/or relocation) to their employees (mainly tech).
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README
-- [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [harismuneer/Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) - 🤖 Top-rated tools to scrape all major public sections from Facebook, Instagram, and Twitter (X) including posts (likes/comments), photos/videos, contact information, followers, following and much more
 - [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
@@ -988,6 +990,8 @@
 
 ## Python 
 
+- [zai-org/RealVideo](https://github.com/zai-org/RealVideo) - A real-time streaming conversational video system that transforms text interactions into continuous, high-fidelity video responses using autoregressive diffusion.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
 - [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
 - [zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR) - GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -1390,6 +1394,10 @@
 
 - [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - A visual novel video game where you learn to code and get a dev job 🎯
 
+## Roff 
+
+- [Wyattwalls/system_prompts](https://github.com/Wyattwalls/system_prompts) - 
+
 ## Ruby 
 
 - [podigee/device_detector](https://github.com/podigee/device_detector) - DeviceDetector is a precise and fast user agent parser and device detector written in Ruby
@@ -1418,6 +1426,7 @@
 
 ## Rust 
 
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -1566,7 +1575,12 @@
 
 ## TypeScript 
 
+- [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) - This is a cleanroom deobfuscation of the official Claude Code npm package.
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [tkattkat/open-claude](https://github.com/tkattkat/open-claude) - 
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -1633,7 +1647,7 @@
 - [technovangelist/videoprojects](https://github.com/technovangelist/videoprojects) - 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
