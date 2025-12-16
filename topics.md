@@ -123,6 +123,7 @@
 - [html-css-javascript](#html-css-javascript)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [image-processing](#image-processing)
 - [information-gathering](#information-gathering)
 - [instagram](#instagram)
@@ -306,6 +307,8 @@
 
 ## ai 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [rpgeeganage/pII-guard](https://github.com/rpgeeganage/pII-guard) - 🛡️ PII Guard is an LLM-powered tool that detects and manages Personally Identifiable Information (PII) in logs — designed to support data privacy and GDPR compliance
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -397,7 +400,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
-- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, sandboxed, and open-source online code execution system for humans and AI.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
@@ -472,6 +475,7 @@
 
 ## android 
 
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -547,6 +551,7 @@
 
 ## api 
 
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [jeet-dekivadia/google-deepmind](https://github.com/jeet-dekivadia/google-deepmind) - HALO - Hierarchical Abstraction for Longform Optimization
@@ -580,6 +585,8 @@
 
 ## artificial-intelligence 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -602,6 +609,7 @@
 
 ## automation 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
@@ -801,6 +809,7 @@
 
 ## chatbot 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -819,6 +828,7 @@
 
 ## chatgpt 
 
+- [helallao/perplexity-ai](https://github.com/helallao/perplexity-ai) - Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [reflex-dev/reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -1027,6 +1037,8 @@
 
 ## crawler 
 
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
@@ -1461,6 +1473,7 @@
 
 ## flutter 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [sunarya-thito/shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter) - A cohesive shadcn/ui ecosystem for Flutter
@@ -1476,6 +1489,7 @@
 
 ## flutter-apps 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1892,12 +1906,19 @@
 
 ## http 
 
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [httptoolkit/httptoolkit-ui](https://github.com/httptoolkit/httptoolkit-ui) - The UI of HTTP Toolkit
 - [fontseca/playground](https://github.com/fontseca/playground) - A web-based HTTP client designed for testing raw web APIs or those imported from Postman collections in JSON format. This tool functions as a plugin on my website, primarily to highlight my work as a 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+
+## https 
+
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 
 ## image-processing 
 
@@ -2295,6 +2316,7 @@
 
 ## low-code 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## lua 
@@ -2416,6 +2438,7 @@
 
 ## material-design 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
@@ -2457,6 +2480,7 @@
 
 ## music 
 
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
@@ -2512,6 +2536,7 @@
 
 ## nextjs 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
 - [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creat
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
@@ -2574,6 +2599,7 @@
 
 ## no-code 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## node 
@@ -2692,6 +2718,7 @@
 
 ## openai 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -2765,6 +2792,9 @@
 
 ## others 
 
+- [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
+- [marckrenn/cc-mvp-prompts](https://github.com/marckrenn/cc-mvp-prompts) - 
+- [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
 - [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) - This is a cleanroom deobfuscation of the official Claude Code npm package.
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -3456,11 +3486,13 @@
 
 ## penetration-testing 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 
 ## pentesting 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, mak
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -3586,6 +3618,7 @@
 
 ## python 
 
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
@@ -3843,6 +3876,7 @@
 
 ## rag 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
@@ -3884,6 +3918,7 @@
 
 ## react 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -4024,6 +4059,8 @@
 
 ## rust 
 
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -4102,6 +4139,7 @@
 
 ## security-tools 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
@@ -4359,6 +4397,7 @@
 
 ## typescript 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
