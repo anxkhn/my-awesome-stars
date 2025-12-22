@@ -340,7 +340,7 @@
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [perrypixel/10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
@@ -1397,7 +1397,7 @@
 
 ## embedded 
 
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 
 ## emoji 
@@ -2295,7 +2295,7 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless) - Agentless🐱:  an agentless approach to automatically solve software development problems
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -2364,7 +2364,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [heilcheng/gemma-benchmark](https://github.com/heilcheng/gemma-benchmark) - Benchmarking suite for Google's Gemma models
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Gen AI site - including the Gemini API and Gemma
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -2618,7 +2618,7 @@
 - [Reason-Wang/ToolGen](https://github.com/Reason-Wang/ToolGen) - [ICLR 2025] The official implementation of paper "ToolGen: Unified Tool Retrieval and Calling via Generation"
 - [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
 - [heilcheng/gemma-benchmark](https://github.com/heilcheng/gemma-benchmark) - Benchmarking suite for Google's Gemma models
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [TrainingByPackt/Natural-Language-Processing-Fundamentals](https://github.com/TrainingByPackt/Natural-Language-Processing-Fundamentals) - Use Python and NLTK to build out your own text classifiers and solve common NLP problems
@@ -2798,7 +2798,7 @@
 
 ## opencv 
 
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [sudiptab2100/Wild-Storage](https://github.com/sudiptab2100/Wild-Storage) - Use YouTube as Infinite Cloud Storage
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
@@ -2823,6 +2823,7 @@
 
 ## others 
 
+- [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) - 
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary) - Poor-man's solution to stopping AI companies from scraping your blog
 - [google/mcp](https://github.com/google/mcp) - Google 💚 MCP
@@ -3684,7 +3685,7 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
 - [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme) - A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
@@ -3922,7 +3923,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [PacktPublishing/LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
