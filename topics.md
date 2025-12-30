@@ -235,6 +235,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
+- [storybook](#storybook)
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -2266,7 +2267,7 @@
 ## llm 
 
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [zai-org/RealVideo](https://github.com/zai-org/RealVideo) - A real-time streaming conversational video system that transforms text interactions into continuous, high-fidelity video responses using autoregressive diffusion.
 - [zai-org/GLM-ASR](https://github.com/zai-org/GLM-ASR) - GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -2831,6 +2832,8 @@
 
 ## others 
 
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - 
+- [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 - [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI meeting transcription and summarization using locally hosted Small Language Models
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
@@ -2843,7 +2846,7 @@
 - [google/mcp](https://github.com/google/mcp) - Google 💚 MCP
 - [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) - CircuitVerse Online Documentation
 - [samwho/llmwalk](https://github.com/samwho/llmwalk) - Explore the answer-space of open LLMs
-- [marckrenn/cc-mvp-prompts](https://github.com/marckrenn/cc-mvp-prompts) - 
+- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - 
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
 - [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) - This is a cleanroom deobfuscation of the official Claude Code npm package.
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
@@ -3534,7 +3537,7 @@
 
 ## penetration-testing 
 
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
@@ -3670,7 +3673,7 @@
 
 ## python 
 
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
@@ -4317,6 +4320,10 @@
 - [hritik5102/Fundamentals_of_DS_ML_DL](https://github.com/hritik5102/Fundamentals_of_DS_ML_DL) - The repository encompasses the core concepts of Python, Statistics, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 - [youssefHosni/Data-Science-Handbook](https://github.com/youssefHosni/Data-Science-Handbook) - A curated list of data science educational resources for essential data science skills
 - [hemansnation/AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models.
+
+## storybook 
+
+- [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 
 ## support 
 
