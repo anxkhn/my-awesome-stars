@@ -290,6 +290,7 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for verifiably private AI inference
@@ -333,7 +334,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [hsnice16/email-verifier](https://github.com/hsnice16/email-verifier) - Enter an email and verify if it's a valid email or not, written in Go language. Also, exposes the core service to verify an email as a package and as an endpoint.
 - [Adit0507/habit-tracker](https://github.com/Adit0507/habit-tracker) - Implemented a gRPC service using Protocol Buffers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 - [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons) - "Fork" of official skill-icons repository. Showcase your skills on your Github readme or resumé with ease ✨
@@ -516,6 +517,7 @@
 
 ## JavaScript 
 
+- [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [kartikpapney/compensation](https://github.com/kartikpapney/compensation) - The Compensation project is a platform designed specifically for Software Engineers to visualize and analyze data from the Leetcode Compensation section
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
@@ -1476,7 +1478,7 @@
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
 - [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) - a simple transcription library for rust
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM load balancer and serving platform for self-hosting LLMs at scale 🏓🦙
+- [intentee/paddler](https://github.com/intentee/paddler) - Open-source LLM load balancer and serving platform for self-hosting LLMs at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments buil
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
@@ -1622,6 +1624,7 @@
 
 ## TypeScript 
 
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [Dhravya/cloudflare-email](https://github.com/Dhravya/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
