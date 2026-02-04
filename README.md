@@ -1152,7 +1152,7 @@
 - [tattle-made/feluda](https://github.com/tattle-made/feluda) - A configurable engine for analysing multi-lingual and multi-modal content.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
-- [pypa/bandersnatch](https://github.com/pypa/bandersnatch) - A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
+- [pypa/bandersnatch](https://github.com/pypa/bandersnatch) - A PyPI mirror client according to PEP 381 + PEP 503 + PEP 691
 - [google/bumble](https://github.com/google/bumble) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -1177,7 +1177,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaminig on Your Phone
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [shantanuparabumd/automate_linkedin](https://github.com/shantanuparabumd/automate_linkedin) - 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
@@ -1761,7 +1761,7 @@
 - [so-sc/devhost-2024](https://github.com/so-sc/devhost-2024) - Where Curiosity Meets Expertise.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
 - [code100x/muzer](https://github.com/code100x/muzer) - 
-- [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [asyncapi/website](https://github.com/asyncapi/website) - AsyncAPI specification website
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [supermemoryai/cloudflare-saas-stack](https://github.com/supermemoryai/cloudflare-saas-stack) - Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you. Add all primitives you want.
