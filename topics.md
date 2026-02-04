@@ -3130,7 +3130,7 @@
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [EvanZhouDev/polycompiler](https://github.com/EvanZhouDev/polycompiler) - Merge Python and JS code into one file that can be run in both languages.
 - [SiddhantDembi/SEM-8-Previous-Year-Papers](https://github.com/SiddhantDembi/SEM-8-Previous-Year-Papers) - 
-- [pypa/bandersnatch](https://github.com/pypa/bandersnatch) - A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
+- [pypa/bandersnatch](https://github.com/pypa/bandersnatch) - A PyPI mirror client according to PEP 381 + PEP 503 + PEP 691
 - [JoyalAJohney/Realtime-distributed-chat](https://github.com/JoyalAJohney/Realtime-distributed-chat) - Realtime distributed messaging platform built using Go and React (Fullstack) ❤️
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [sarthak0714/Fast-Bank](https://github.com/sarthak0714/Fast-Bank) - FAST BANK
@@ -3182,7 +3182,7 @@
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaminig on Your Phone
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [shantanuparabumd/automate_linkedin](https://github.com/shantanuparabumd/automate_linkedin) - 
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
@@ -3272,7 +3272,7 @@
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [fabrik42/responsive_mockups](https://github.com/fabrik42/responsive_mockups) - Takes screenshots of a webpage in different resolutions and automatically applies it to mockup templates.
 - [code100x/muzer](https://github.com/code100x/muzer) - 
-- [pontusab/directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
 - [siddharthsky/CustTermux](https://github.com/siddharthsky/CustTermux) - Fork of the Termux to run TV
 - [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
 - [sentient-engineering/jobber](https://github.com/sentient-engineering/jobber) - browser controlling AI agent that applies to relavant jobs on internet autonomously. join chat @ https://discord.gg/umgnyQU2K8
