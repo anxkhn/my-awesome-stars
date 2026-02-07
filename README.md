@@ -151,7 +151,6 @@
 
 ## C# # 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 - [TheAirBlow/HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -298,7 +297,6 @@
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -360,7 +358,7 @@
 
 ## HTML 
 
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI meeting intelligence
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -399,6 +397,7 @@
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [kazuhikoarase/qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) - QR Code Generator implementation in JavaScript, Java and more.
 - [us-udacity/us-udacity.github.io](https://github.com/us-udacity/us-udacity.github.io) - 优达学城是全球掌握技能最快的公司
 - [razorpay/ifsc](https://github.com/razorpay/ifsc) - :bank: IFSC Codes Repository
@@ -753,6 +752,7 @@
 
 ## Kotlin 
 
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
@@ -789,7 +789,6 @@
 
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - Old repository of my personal website. The revamped and new design is closed-source ✌️
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1072,6 +1071,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [pymatting/pymatting](https://github.com/pymatting/pymatting) - A Python library for alpha matting
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
@@ -1181,7 +1181,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [shantanuparabumd/automate_linkedin](https://github.com/shantanuparabumd/automate_linkedin) - 
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
