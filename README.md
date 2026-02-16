@@ -1672,7 +1672,7 @@
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) - A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
-- [KartikLabhshetwar/stage](https://github.com/KartikLabhshetwar/stage) - Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creat
+- [KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
