@@ -299,7 +299,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [SwishHQ/spread](https://github.com/SwishHQ/spread) - A code-push compatible OTA update server for React Native 🪂
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -365,6 +364,7 @@
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [codewithsadee/woodex](https://github.com/codewithsadee/woodex) - Woodex is a fully responsive furniture ecommerce website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 - [codewithsadee/innohub](https://github.com/codewithsadee/innohub) - InnoHub is a fully responsive digital marketing agency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
@@ -816,7 +816,7 @@
 - [hanzalahwaheed/ascii-art-in-terminal](https://github.com/hanzalahwaheed/ascii-art-in-terminal) - 
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [google/mcp](https://github.com/google/mcp) - Google 💚 MCP
-- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - 
+- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
 - [reflex-dev/awesome-reflex](https://github.com/reflex-dev/awesome-reflex) - Python web framework for building both your frontend and backend with no JavaScript
@@ -1027,6 +1027,7 @@
 
 ## Python 
 
+- [google-deepmind/jax_privacy](https://github.com/google-deepmind/jax_privacy) - Algorithms for Privacy-Preserving Machine Learning in JAX
 - [Mosaibah/oreilly-ingest](https://github.com/Mosaibah/oreilly-ingest) - Oreilly Downloader (PDF, EPUB, Markdown, JSON, Text)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
