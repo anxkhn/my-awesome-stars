@@ -361,6 +361,8 @@
 
 ## HTML 
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+- [qurbat/dnsblocks.in](https://github.com/qurbat/dnsblocks.in) - GitHub Pages repository for the Poisoned Wells project website
 - [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting intelligence using locally hosted Small Language Models. StenoAI Med for structured clinical notes coming soon.
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
@@ -819,11 +821,13 @@
 
 ## Objective-C 
 
+- [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [Kyome22/OpenMultitouchSupport](https://github.com/Kyome22/OpenMultitouchSupport) - This enables you easily to access raw data of the multitouch trackpad.
 - [cynthia/WorldWideWeb](https://github.com/cynthia/WorldWideWeb) - Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep. Originally written by @timbl.
 
 ## Others 
 
+- [hadnet/vscode-islands-dark-settings](https://github.com/hadnet/vscode-islands-dark-settings) - 
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
@@ -1042,6 +1046,9 @@
 
 ## Python 
 
+- [m-lab/murakami](https://github.com/m-lab/murakami) - Run automated internet measurement tests in a Docker container.
+- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [arpitbbhayani/pagestack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -1325,7 +1332,7 @@
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [openai/grok](https://github.com/openai/grok) - 
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [Simatwa/python-tgpt](https://github.com/Simatwa/python-tgpt) - AI Chat in Terminal + Package + REST-API
 - [CibiAananth/fullstack-next-fastapi](https://github.com/CibiAananth/fullstack-next-fastapi) - A fullstack starter with Next.js, Tailwind, Shadcn UI, FastAPI, SQLAlchemy, Pydantic, Alembic, Asyncio, Postgres, Redis, Celery, RabbitMQ
@@ -1503,7 +1510,7 @@
 - [wisdgod/cursor-api](https://github.com/wisdgod/cursor-api) - 
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
@@ -1664,6 +1671,8 @@
 
 ## TypeScript 
 
+- [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [kitlangton/tailcode](https://github.com/kitlangton/tailcode) - 
