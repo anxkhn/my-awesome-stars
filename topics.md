@@ -589,6 +589,7 @@
 
 ## api 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -1391,6 +1392,7 @@
 
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [varunvasudeva1/llm-server-docs](https://github.com/varunvasudeva1/llm-server-docs) - End-to-end documentation to set up your own local & fully private LLM server on Debian. Equipped with chat, web search, RAG, model management, MCP servers, image generation, and TTS.
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -1501,6 +1503,7 @@
 
 ## express 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark) - Backend benchmarking of Python, Node, and Dart frameworks
 
@@ -1980,7 +1983,7 @@
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python) - 🏆  A ranked list of awesome python libraries for web development. Updated weekly.
 - [mdbootstrap/bootstrap-fluent-design](https://github.com/mdbootstrap/bootstrap-fluent-design) - Fluent Design Theme for Bootstrap - inspired by Windows style and based on the latest Bootstrap 5.
 - [AlexBSoft/win95.css](https://github.com/AlexBSoft/win95.css) - Responsive Bootstrap 4 windows 95/98 theme & landing page template
@@ -2147,7 +2150,7 @@
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [alfaarghya/alfa-leetcode-api](https://github.com/alfaarghya/alfa-leetcode-api) - It's a custom leetcode api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gabrielgodoy-zz/github-stars-manager](https://github.com/gabrielgodoy-zz/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created
@@ -2794,6 +2797,7 @@
 
 ## nodejs 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [stdlib-js/datasets-cmudict](https://github.com/stdlib-js/datasets-cmudict) - The Carnegie Mellon Pronouncing Dictionary (CMUdict).
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -2989,6 +2993,14 @@
 
 ## others 
 
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+- [m-lab/murakami](https://github.com/m-lab/murakami) - Run automated internet measurement tests in a Docker container.
+- [excalidraw/mermaid-to-excalidraw](https://github.com/excalidraw/mermaid-to-excalidraw) - Generate Excalidraw diagrams from Mermaid
+- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [hadnet/vscode-islands-dark-settings](https://github.com/hadnet/vscode-islands-dark-settings) - 
+- [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
+- [qurbat/dnsblocks.in](https://github.com/qurbat/dnsblocks.in) - GitHub Pages repository for the Poisoned Wells project website
+- [maderix/ANE](https://github.com/maderix/ANE) - Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [anxkhn/free-kilo-gateway](https://github.com/anxkhn/free-kilo-gateway) - Add free Kilo Gateway models to OpenCode
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [arpitbbhayani/pagestack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle.
@@ -3036,7 +3048,7 @@
 - [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) - Puppeteer Core fork that works with Cloudflare Browser Workers
 - [hanzalahwaheed/ascii-art-in-terminal](https://github.com/hanzalahwaheed/ascii-art-in-terminal) - 
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
 - [freelawproject/x-ray](https://github.com/freelawproject/x-ray) - A tool to detect whether a PDF has a bad redaction
@@ -3979,7 +3991,7 @@
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [dheerajdlalwani/migratori](https://github.com/dheerajdlalwani/migratori) - A simple python tool to help you manage your database migrations.
@@ -4293,6 +4305,7 @@
 
 ## rest-api 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
@@ -4397,6 +4410,7 @@
 
 ## security 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [google/google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -4854,6 +4868,7 @@
 
 ## web 
 
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for the Express web server
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
