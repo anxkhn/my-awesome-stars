@@ -1201,7 +1201,7 @@
 
 ## data-engineering 
 
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -1213,7 +1213,7 @@
 - [gee-community/geemap](https://github.com/gee-community/geemap) - A Python package for interactive geospatial analysis and visualization with Google Earth Engine.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [mlabonne/how-to-data-science](https://github.com/mlabonne/how-to-data-science) - Scripts, notebooks, and articles about data science in general.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
@@ -1300,7 +1300,7 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) - Free hands-on course about Graph Neural Networks using PyTorch Geometric.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [tattle-made/feluda](https://github.com/tattle-made/feluda) - A configurable engine for analysing multi-lingual and multi-modal content.
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
@@ -1799,6 +1799,7 @@
 
 ## google 
 
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 - [google/google-ctf](https://github.com/google/google-ctf) - Google CTF
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [n3a9/google-foobar](https://github.com/n3a9/google-foobar) - My Google Foo Bar Challenges 🤓 🧮
@@ -2494,7 +2495,7 @@
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [awslabs/graphstorm](https://github.com/awslabs/graphstorm) - Enterprise graph machine learning framework for billion-scale graphs for ML scientists and data scientists.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [heilcheng/openevals](https://github.com/heilcheng/openevals) - Benchmarking suite for open-weight language models
 - [google/generative-ai-docs](https://github.com/google/generative-ai-docs) - This repository is deprecated and will be archived
@@ -2613,7 +2614,7 @@
 
 ## mcp 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -2716,7 +2717,7 @@
 ## natural-language-processing 
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [grammarly/gector](https://github.com/grammarly/gector) - Official implementation of the papers "GECToR – Grammatical Error Correction: Tag, Not Rewrite" (BEA-20) and "Text Simplification by Tagging" (BEA-21)
 - [TrainingByPackt/Natural-Language-Processing-Fundamentals](https://github.com/TrainingByPackt/Natural-Language-Processing-Fundamentals) - Use Python and NLTK to build out your own text classifiers and solve common NLP problems
 - [ksm26/LangChain-Chat-with-Your-Data](https://github.com/ksm26/LangChain-Chat-with-Your-Data) - Explore LangChain and build powerful chatbots that interact with your own data. Gain insights into document loading, splitting, retrieval, question answering, and more.
@@ -2895,7 +2896,7 @@
 
 ## open-source 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [CookethOrg/Cooketh-Flow](https://github.com/CookethOrg/Cooketh-Flow) - Cooketh Flow is an open-source, powerful visual thinking tool designed for teams and individuals to brainstorm, sketch, and organize ideas effortlessly. Whether you're mapping out ideas, designing use
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -3020,6 +3021,7 @@
 
 ## others 
 
+- [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [eonlynx/pokecrossroads](https://github.com/eonlynx/pokecrossroads) - A ROM hack of Pokémon Emerald that aims to join Kanto, Johto and Hoenn in a single adventure.
@@ -3770,14 +3772,14 @@
 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
 
 ## pentesting 
 
 - [Crypto-Cat/CTF](https://github.com/Crypto-Cat/CTF) - CTF challenge (mostly pwn) files, scripts etc
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
 - [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, mak
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -3951,7 +3953,7 @@
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [datavorous/yars](https://github.com/datavorous/yars) - Yet Another Reddit Scrapper (without API keys) | Scrap search results, posts and images from subreddits filtered by hot, new etc and bulk download any user's data.
 - [InstaPy/instagram-profilecrawl](https://github.com/InstaPy/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS
@@ -4148,7 +4150,7 @@
 - [mlabonne/how-to-data-science](https://github.com/mlabonne/how-to-data-science) - Scripts, notebooks, and articles about data science in general.
 - [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) - Free hands-on course about Graph Neural Networks using PyTorch Geometric.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
@@ -4379,7 +4381,7 @@
 
 ## rust 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
@@ -4469,7 +4471,7 @@
 ## security-tools 
 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
@@ -4752,7 +4754,7 @@
 
 ## typescript 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
