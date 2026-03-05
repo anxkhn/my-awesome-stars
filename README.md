@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [Rafiuth/Soggfy](https://github.com/Rafiuth/Soggfy) - Spotify ogg dumper
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -366,7 +367,6 @@
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [qurbat/dnsblocks.in](https://github.com/qurbat/dnsblocks.in) - GitHub Pages repository for the Poisoned Wells project website
 - [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting intelligence using locally hosted Small Language Models. StenoAI Med for structured clinical notes coming soon.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
@@ -706,7 +706,7 @@
 - [mlabonne/linear-programming-course](https://github.com/mlabonne/linear-programming-course) - Hands-on course about linear programming and mathematical optimization.
 - [mlabonne/graph-neural-network-course](https://github.com/mlabonne/graph-neural-network-course) - Free hands-on course about Graph Neural Networks using PyTorch Geometric.
 - [genieincodebottle/generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning Tutorial Notebooks on Google Colab, Kaggle and more.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
@@ -829,6 +829,7 @@
 
 ## Others 
 
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 - [hadnet/vscode-islands-dark-settings](https://github.com/hadnet/vscode-islands-dark-settings) - 
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
@@ -1048,6 +1049,7 @@
 
 ## Python 
 
+- [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [m-lab/murakami](https://github.com/m-lab/murakami) - Run automated internet measurement tests in a Docker container.
 - [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
@@ -1515,6 +1517,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -1683,7 +1686,7 @@
 - [kitlangton/tailcode](https://github.com/kitlangton/tailcode) - 
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [neondatabase/add-mcp](https://github.com/neondatabase/add-mcp) - The open MCP config tool - npx add-mcp
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
@@ -1709,7 +1712,7 @@
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [vivienhenz24/fuzzy-canary](https://github.com/vivienhenz24/fuzzy-canary) - Poor-man's solution to stopping AI companies from scraping your blog
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - 
 - [ghuntley/claude-code-source-code-deobfuscation](https://github.com/ghuntley/claude-code-source-code-deobfuscation) - This is a cleanroom deobfuscation of the official Claude Code npm package.
