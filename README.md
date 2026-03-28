@@ -297,6 +297,7 @@
 
 ## Go 
 
+- [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -529,6 +530,7 @@
 
 ## JavaScript 
 
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [microlinkhq/optimo](https://github.com/microlinkhq/optimo) - Optimize and convert images and videos using format-specific compression pipelines on top of ImageMagick and FFmpeg.
 - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box.
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
@@ -844,6 +846,7 @@
 
 ## Others 
 
+- [JatsuAkaYashvant/Accepted-proposals](https://github.com/JatsuAkaYashvant/Accepted-proposals) - A community archive of accepted open-source proposals to help future contributors learn from real examples
 - [ytx-readings/software-development](https://github.com/ytx-readings/software-development) - Software development books
 - [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 - [hadnet/vscode-islands-dark-settings](https://github.com/hadnet/vscode-islands-dark-settings) - 
@@ -1065,6 +1068,7 @@
 
 ## Python 
 
+- [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [miolini/autoresearch-macos](https://github.com/miolini/autoresearch-macos) - AI agents running research on single-GPU nanochat training automatically adopted for MacOS
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -1709,6 +1713,9 @@
 
 ## TypeScript 
 
+- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [12fahed/CertiNova](https://github.com/12fahed/CertiNova) - Free Bulk certificate generator and validation with data privacy
 - [justrach/dhi](https://github.com/justrach/dhi) - ⚡ Ultra-fast data validation for Python & TypeScript. Drop-in Pydantic/Zod replacement powered by Zig + SIMD WASM.
 - [rynfar/opencode-claude-max-proxy](https://github.com/rynfar/opencode-claude-max-proxy) - Use your Claude Max subscription with OpenCode. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
 - [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - Open-Source Generative UI Framework
