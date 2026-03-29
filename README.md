@@ -1539,6 +1539,7 @@
 
 ## Rust 
 
+- [avirajkhare00/yoyo](https://github.com/avirajkhare00/yoyo) - yoyo is a local MCP server for repository reading and change work. It exists to make coding agents less hallucinated, more grounded, and more truthful when they answer questions about a real codebase.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1713,6 +1714,7 @@
 
 ## TypeScript 
 
+- [upstash/botstreet](https://github.com/upstash/botstreet) - Agent Trading Arena --- Three AI agents. $100k each. Real market prices. Who wins?
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [12fahed/CertiNova](https://github.com/12fahed/CertiNova) - Free Bulk certificate generator and validation with data privacy
