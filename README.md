@@ -558,7 +558,7 @@
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 - [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in javascript.
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
-- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [CircuitVerse/CircuitVerseDocs](https://github.com/CircuitVerse/CircuitVerseDocs) - CircuitVerse Online Documentation
 - [ua-parser/uap-core](https://github.com/ua-parser/uap-core) - The regex file necessary to build language ports of Browserscope's user agent parser.
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
@@ -850,7 +850,7 @@
 
 ## Others 
 
-- [Leonxlnx/claude-code-system-prompts](https://github.com/Leonxlnx/claude-code-system-prompts) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [JatsuAkaYashvant/Accepted-proposals](https://github.com/JatsuAkaYashvant/Accepted-proposals) - A community archive of accepted open-source proposals to help future contributors learn from real examples
 - [ytx-readings/software-development](https://github.com/ytx-readings/software-development) - Software development books
 - [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
@@ -888,6 +888,7 @@
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [SiddhantDembi/SEM-8-Previous-Year-Papers](https://github.com/SiddhantDembi/SEM-8-Previous-Year-Papers) - 
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -1546,12 +1547,13 @@
 
 ## Rust 
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real t
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 - [avirajkhare00/yoyo](https://github.com/avirajkhare00/yoyo) - yoyo is a local MCP server for repository reading and change work. It exists to make coding agents less hallucinated, more grounded, and more truthful when they answer questions about a real codebase.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [mofa-org/mofa](https://github.com/mofa-org/mofa) - MoFA - Modular Framework for Agents. Modular, Compositional and Programmable.
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [wisdgod/cursor-api](https://github.com/wisdgod/cursor-api) - 
@@ -1722,6 +1724,7 @@
 
 ## TypeScript 
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [upstash/botstreet](https://github.com/upstash/botstreet) - Agent Trading Arena --- Three AI agents. $100k each. Real market prices. Who wins?
@@ -1815,7 +1818,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test & Debug MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Test, Evaluate, and Ship MCP servers, ChatGPT apps, and MCP Apps (ext-apps)
 - [Nutlope/whisper](https://github.com/Nutlope/whisper) - Take notes with your voice & transform them with AI
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
