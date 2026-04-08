@@ -809,7 +809,6 @@
 - [X1nto/Mauth](https://github.com/X1nto/Mauth) - A Material You Two-factor Authentication app
 - [CasperVerswijvelt/Better-Internet-Tiles](https://github.com/CasperVerswijvelt/Better-Internet-Tiles) - Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better unified internet tile
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
-- [MihaiCristianCondrea/QR-Bar-Code-Scanner-for-Android](https://github.com/MihaiCristianCondrea/QR-Bar-Code-Scanner-for-Android) - QR & Bar Code Scanner Plus is an app that helps you to scan and generate QR codes from various sources. It can generate QR codes from text, contacts, apps, bookmarks, and clipboard. The app has a simp
 
 ## Lean 
 
@@ -889,7 +888,6 @@
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [SiddhantDembi/SEM-8-Previous-Year-Papers](https://github.com/SiddhantDembi/SEM-8-Previous-Year-Papers) - 
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Nothing-Developer-Programme/Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
@@ -1074,6 +1072,8 @@
 
 ## Python 
 
+- [Attakay78/fastapi-taskflow](https://github.com/Attakay78/fastapi-taskflow) - Turn FastAPI BackgroundTasks into a production-ready task system. Retries, control, and visibility without workers or brokers.
+- [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [0xku/kon](https://github.com/0xku/kon) - Kon is a minimal coding agent (and also a highly opinionated one)
@@ -1551,6 +1551,7 @@
 
 ## Rust 
 
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
@@ -1693,6 +1694,7 @@
 
 ## Swift 
 
+- [fayazara/Kaze](https://github.com/fayazara/Kaze) - Local speech to text app - Talk instead of typing.
 - [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc
 - [GhostFramer/GhostFrame](https://github.com/GhostFramer/GhostFrame) - GhostFrame is a macOS stealth utility that makes Electron apps invisible to screenshots, screen recordings, screen sharing, Mission Control, and the Dock — built with Swift for privacy-first workflows
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -1850,7 +1852,7 @@
 - [j4wg/interview-coder-withoupaywall-opensource](https://github.com/j4wg/interview-coder-withoupaywall-opensource) - interview-coder-withoupaywall-opensource
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - https://app-router.vercel.app/
+- [vercel/next-app-router-playground](https://github.com/vercel/next-app-router-playground) - A playground to explore Next.js features such as nested layouts, instant loading states, streaming, and component level data fetching.
 - [njraladdin/screen-demo](https://github.com/njraladdin/screen-demo) - A lightweight screen recording and editing tool with zoom animations, cursor tracking, and background customization. An open-source alternative to Screen.studio.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
