@@ -409,6 +409,7 @@
 - [codewithsadee/anon-ecommerce-website](https://github.com/codewithsadee/anon-ecommerce-website) - Fully responsive ecommerce website, built using HTML CSS and JavaScript.
 - [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 - [codewithsadee/cozynest](https://github.com/codewithsadee/cozynest) - A modern and fully responsive eCommerce landing page
+- [ParisNeo/lollms_hub](https://github.com/ParisNeo/lollms_hub) - A proxy server for multiple ollama instances with Key security
 - [anxkhn/azure-ai-900-exam-prep](https://github.com/anxkhn/azure-ai-900-exam-prep) - Notes and previous questions which helped me pass the AI-900 exam on the first attempt, for free. Includes cram and preparation strategies.
 - [davidarroyo1234/InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -817,7 +818,7 @@
 
 ## Lua 
 
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
@@ -1074,7 +1075,8 @@
 
 ## Python 
 
-- [Attakay78/fastapi-taskflow](https://github.com/Attakay78/fastapi-taskflow) - Turn FastAPI BackgroundTasks into a production-ready task system. Retries, control, and visibility without workers or brokers.
+- [thewebAI/yolo-mlx](https://github.com/thewebAI/yolo-mlx) - 
+- [Attakay78/fastapi-taskflow](https://github.com/Attakay78/fastapi-taskflow) - Turn FastAPI BackgroundTasks into a production-ready task system. Retries, Resiliency, control, and visibility without workers or brokers.
 - [aloshdenny/reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI-assisted engineering teams — auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
@@ -1196,7 +1198,6 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
-- [ParisNeo/lollms_hub](https://github.com/ParisNeo/lollms_hub) - A proxy server for multiple ollama instances with Key security
 - [jadechoghari/roomi](https://github.com/jadechoghari/roomi) - Open-source autonomous cleaning & housekeeping robot
 - [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
 - [datavorous/yars](https://github.com/datavorous/yars) - Yet Another Reddit Scrapper (without API keys) | Scrap search results, posts and images from subreddits filtered by hot, new etc and bulk download any user's data.
