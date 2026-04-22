@@ -378,7 +378,7 @@
 - [shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) - claude code hooks - adding voice on each hook
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [qurbat/dnsblocks.in](https://github.com/qurbat/dnsblocks.in) - GitHub Pages repository for the Poisoned Wells project website
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting intelligence using locally hosted Small Language Models. Capture beautiful notes whilst keeping your data entirely confidential. Pefect for government, finance and l
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting intelligence using locally hosted Small Language Models. Capture beautiful notes whilst maintaining complete data privacy. Pefect for government, finance and legal p
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
@@ -1555,6 +1555,7 @@
 
 ## Rust 
 
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes
 - [Rohit-RA-2020/my-wispr](https://github.com/Rohit-RA-2020/my-wispr) - 
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1699,6 +1700,7 @@
 
 ## Swift 
 
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
 - [fayazara/Kaze](https://github.com/fayazara/Kaze) - Local speech to text app - Talk instead of typing.
 - [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc
 - [GhostFramer/GhostFrame](https://github.com/GhostFramer/GhostFrame) - GhostFrame is a macOS stealth utility that makes Electron apps invisible to screenshots, screen recordings, screen sharing, Mission Control, and the Dock — built with Swift for privacy-first workflows
@@ -1737,6 +1739,7 @@
 
 ## TypeScript 
 
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [jina-ai/MCP](https://github.com/jina-ai/MCP) - Official Jina AI Remote MCP Server
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -1883,7 +1886,7 @@
 - [ninadnaik10/shortomega](https://github.com/ninadnaik10/shortomega) - A simple and modern URL shortener built with Next.js, NestJS, and Redis.
 - [MaanasSehgal/Codeforces-Lite](https://github.com/MaanasSehgal/Codeforces-Lite) - Codeforces Lite is a Chrome extension that enhances Codeforces. It features a built-in code editor with code-saving, language switching, and a timer. The extension also offers an optimized dark theme,
 - [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [itsjavi/glasscn-ui](https://github.com/itsjavi/glasscn-ui) - shadcn/ui component library with glassmorphism variants, and many additional components
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
