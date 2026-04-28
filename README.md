@@ -310,7 +310,7 @@
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [mubeng/mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [openpcc/openpcc](https://github.com/openpcc/openpcc) - An open-source framework for verifiably private AI inference
 - [fayazara/pocketvue](https://github.com/fayazara/pocketvue) - A single binary Go + Vue saas starter kit
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1078,6 +1078,7 @@
 
 ## Python 
 
+- [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [thewebAI/yolo-mlx](https://github.com/thewebAI/yolo-mlx) - 
@@ -1531,6 +1532,7 @@
 
 ## Ruby 
 
+- [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
 - [joshleitzel/rawthought](https://github.com/joshleitzel/rawthought) - Aaron Swartz's blog posts in Markdown, PDF, ePub, and Mobi
@@ -1705,7 +1707,7 @@
 
 ## Swift 
 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
 - [fayazara/Kaze](https://github.com/fayazara/Kaze) - Local speech to text app - Talk instead of typing.
 - [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Fast, free alternative to Wispr Flow
 - [GhostFramer/GhostFrame](https://github.com/GhostFramer/GhostFrame) - GhostFrame is a macOS stealth utility that makes Electron apps invisible to screenshots, screen recordings, screen sharing, Mission Control, and the Dock — built with Swift for privacy-first workflows
