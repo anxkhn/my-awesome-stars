@@ -578,7 +578,7 @@
 ## android 
 
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
@@ -1063,7 +1063,7 @@
 
 ## cli 
 
-- [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -1502,7 +1502,7 @@
 
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 
@@ -1869,7 +1869,7 @@
 ## go 
 
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
-- [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -2205,7 +2205,7 @@
 ## image-processing 
 
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [pymatting/pymatting](https://github.com/pymatting/pymatting) - A Python library for alpha matting
 - [gee-community/geemap](https://github.com/gee-community/geemap) - A Python package for interactive geospatial analysis and visualization with Google Earth Engine.
@@ -2267,7 +2267,7 @@
 - [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
 - [grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring) - Spring Boot starter module for gRPC framework.
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
 - [AnasImloul/Leetcode-Solutions](https://github.com/AnasImloul/Leetcode-Solutions) - A repository with over 7000 solutions to more than 1800 Leetcode problems written in C++, Python, Java, Javascript, Rust & Golang.
@@ -2324,7 +2324,7 @@
 - [sihaelov/moceen](https://github.com/sihaelov/moceen) - Create beautiful screenshots with device mockups
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
@@ -3205,7 +3205,7 @@
 ## opencv 
 
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [sudiptab2100/Wild-Storage](https://github.com/sudiptab2100/Wild-Storage) - Use YouTube as Infinite Cloud Storage
@@ -4579,7 +4579,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [WindChat-Link/windchat-extension](https://github.com/WindChat-Link/windchat-extension) - v0.dev open-source alternative
 - [PriontoAbdullah/PriontoAbdullah.github.io](https://github.com/PriontoAbdullah/PriontoAbdullah.github.io) - 🔥 This is my Personal Portfolio website. 🚀💻 Visit this amazing site: https://prionto-71.web.app/
 - [adrianhajdin/project_hoobank](https://github.com/adrianhajdin/project_hoobank) - Modern UI/UX website using React.js & Tailwind CSS
@@ -4816,7 +4816,7 @@
 
 - [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
 - [grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring) - Spring Boot starter module for gRPC framework.
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 
 ## sql 
 
