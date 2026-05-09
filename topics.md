@@ -387,7 +387,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode AI to stay in your flow.
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI notepad using locally hosted Small Language Models. Capture beautiful notes whilst keeping your data confidential. Pefect for government, finance and legal professionals.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Pefect for government, healthcare, CXOs and legal pro
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -2717,7 +2717,7 @@
 ## macos 
 
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2767,7 +2767,7 @@
 
 ## markdown 
 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
@@ -3243,6 +3243,7 @@
 
 ## others 
 
+- [jsonallen/perplexity-mcp](https://github.com/jsonallen/perplexity-mcp) - A Model Context Protocol (MCP) server that provides web search functionality using Perplexity AI's API.
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [gjarrosson/yc-roaster-application-coach](https://github.com/gjarrosson/yc-roaster-application-coach) - A Claude Code skill that coaches founders through writing their YC application — built by Lobster Capital, the team behind YC Roaster
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
@@ -4899,7 +4900,7 @@
 ## swift 
 
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
