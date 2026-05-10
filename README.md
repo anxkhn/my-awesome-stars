@@ -99,6 +99,7 @@
 
 ## C 
 
+- [xiaomi-sm6375-devs/android_device_xiaomi_veux](https://github.com/xiaomi-sm6375-devs/android_device_xiaomi_veux) - 
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [eonlynx/pokecrossroads](https://github.com/eonlynx/pokecrossroads) - A ROM hack of Pokémon Emerald that aims to join Kanto, Johto and Hoenn in a single adventure.
 - [bellard/mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
@@ -1718,7 +1719,7 @@
 - [Blaizzy/mlx-audio-swift](https://github.com/Blaizzy/mlx-audio-swift) - A modular Swift SDK for audio processing with MLX on Apple Silicon
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [fayazara/Kaze](https://github.com/fayazara/Kaze) - Local speech to text app - Talk instead of typing.
-- [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Fast, free alternative to Wispr Flow
+- [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free & fast alternative to Wispr Flow
 - [GhostFramer/GhostFrame](https://github.com/GhostFramer/GhostFrame) - GhostFrame is a macOS stealth utility that makes Electron apps invisible to screenshots, screen recordings, screen sharing, Mission Control, and the Dock — built with Swift for privacy-first workflows
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
