@@ -324,7 +324,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
@@ -439,7 +439,7 @@
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [Dark-Kernel/tuisic](https://github.com/Dark-Kernel/tuisic) - First of its kind, A simple TUI online music streaming application written in c++ with easy vim motions, now with support for Model Context Protocol (MCP)
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [Abhinandan-Khurana/PhishSleuth](https://github.com/Abhinandan-Khurana/PhishSleuth) - AI-enabled Phishing Link Detection and Alert System.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
@@ -980,7 +980,7 @@
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2847,7 +2847,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [Dark-Kernel/tuisic](https://github.com/Dark-Kernel/tuisic) - First of its kind, A simple TUI online music streaming application written in c++ with easy vim motions, now with support for Model Context Protocol (MCP)
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Build autonomous AI agents in Python.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -3193,7 +3193,7 @@
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -3412,7 +3412,7 @@
 - [openclimatefix/open-source-quartz-solar-forecast](https://github.com/openclimatefix/open-source-quartz-solar-forecast) - Open Source Solar Site Level Forecast
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
