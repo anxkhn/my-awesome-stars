@@ -1593,6 +1593,7 @@
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic Python HTTP Client with TLS fingerprint
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
@@ -1832,7 +1833,6 @@
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [tkattkat/open-claude](https://github.com/tkattkat/open-claude) - 
@@ -1850,7 +1850,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
 - [rpgeeganage/pII-guard](https://github.com/rpgeeganage/pII-guard) - 🛡️ PII Guard is an LLM-powered tool that detects and manages Personally Identifiable Information (PII) in logs — designed to support data privacy and GDPR compliance
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
@@ -1910,7 +1910,7 @@
 - [floguo/giftbox](https://github.com/floguo/giftbox) - create interactive digital gifts
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [ellipse-software/url-shortener](https://github.com/ellipse-software/url-shortener) - A url shortener that respects your privacy and deployed on your own infrastructure. Built on Cloudflare KV and Workers. Serverlessly deployed. Privacy as standard.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 - [ninadnaik10/shortomega](https://github.com/ninadnaik10/shortomega) - A simple and modern URL shortener built with Next.js, NestJS, and Redis.
 - [MaanasSehgal/Codeforces-Lite](https://github.com/MaanasSehgal/Codeforces-Lite) - Codeforces Lite is a Chrome extension that enhances Codeforces. It features a built-in code editor with code-saving, language switching, and a timer. The extension also offers an optimized dark theme,
 - [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
