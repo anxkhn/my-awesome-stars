@@ -1775,6 +1775,10 @@
 
 ## TypeScript 
 
+- [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
+- [shashankswe2020-ux/whoop-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) - MCP server to connect to whoop API
+- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.
+- [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
 - [ngx-builders/netlify-builder](https://github.com/ngx-builders/netlify-builder) - Deploy your Angular app to netlify from CLI
 - [dodopayments/context-mcp](https://github.com/dodopayments/context-mcp) - Self-hosted MCP server for your documentation
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - The Starting Point for Next-Gen Agents
