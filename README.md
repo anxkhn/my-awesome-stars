@@ -18,6 +18,7 @@
 - [Clojure](#clojure)
 - [Cuda](#cuda)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Go](#go)
 - [HCL](#hcl)
@@ -99,6 +100,7 @@
 
 ## C 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [xiaomi-sm6375-devs/android_device_xiaomi_veux](https://github.com/xiaomi-sm6375-devs/android_device_xiaomi_veux) - 
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [eonlynx/pokecrossroads](https://github.com/eonlynx/pokecrossroads) - A ROM hack of Pokémon Emerald that aims to join Kanto, Johto and Hoenn in a single adventure.
@@ -293,6 +295,10 @@
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [abhi16180/photon](https://github.com/abhi16180/photon) - Photon is a cross-platform file and folder transfer application built using flutter. It uses http to transfer files between devices. You can transfer files between any devices that run Photon.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+## Dockerfile 
+
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## EJS 
 
@@ -1192,7 +1198,6 @@
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -1295,7 +1300,7 @@
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
-- [buridan-ui/ui](https://github.com/buridan-ui/ui) - Composable, themeable components designed for Reflex. Extend, override, and ship without fighting the framework. Open source.
+- [LineIndent/ui](https://github.com/LineIndent/ui) - Composable, themeable components designed for Reflex. Extend, override, and ship without fighting the framework. Open source.
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [anxkhn/jiosaavn-api](https://github.com/anxkhn/jiosaavn-api) - A high-performance API for JioSaavn, built with Python and FastAPI. Fetch DRM-free songs. Ideal for integrating JioSaavn into your projects.
 - [thiswillbeyourgithub/AnkiAIUtils](https://github.com/thiswillbeyourgithub/AnkiAIUtils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
@@ -1573,7 +1578,7 @@
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 - [tramlinehq/tramline](https://github.com/tramlinehq/tramline) - Release coordination and deployment platform, just for your mobile apps
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
@@ -1592,7 +1597,7 @@
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [avirajkhare00/yoyo](https://github.com/avirajkhare00/yoyo) - yoyo is a local MCP server for repository reading and change work. It exists to make coding agents less hallucinated, more grounded, and more truthful when they answer questions about a real codebase.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
@@ -1834,7 +1839,7 @@
 - [kitlangton/tailcode](https://github.com/kitlangton/tailcode) - 
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 - [neon-solutions/add-mcp](https://github.com/neon-solutions/add-mcp) - The open MCP config tool - npx add-mcp
