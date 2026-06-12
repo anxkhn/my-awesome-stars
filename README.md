@@ -140,6 +140,7 @@
 - [Ramjonchhen/DSA-Practical-Programs](https://github.com/Ramjonchhen/DSA-Practical-Programs) - This repository contains all the programs for the practical sheet of the 3rd semester Data Structures and Algorithms.
 - [ShreyaKamath09/SE-DSA-Lab](https://github.com/ShreyaKamath09/SE-DSA-Lab) - 
 - [devout-coder/cg-sem3](https://github.com/devout-coder/cg-sem3) - fuck CG
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [LAKSH3002/DSA_SEM3](https://github.com/LAKSH3002/DSA_SEM3) - Programs of sortings , linked lists , bst and graphs
 - [shagun6093/DSA-PRACTICAL](https://github.com/shagun6093/DSA-PRACTICAL) - 
@@ -170,7 +171,6 @@
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [SimonCropp/WinDebloat](https://github.com/SimonCropp/WinDebloat) - A dotnet tool that removes the bloat in Windows
 - [codemagic-ci-cd/codemagic-sample-projects](https://github.com/codemagic-ci-cd/codemagic-sample-projects) - A collection of sample apps built with Codemagic CI/CD. Please see the codemagic.yaml file for a sample workflow configuration.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [AndnixSH/APKToolGUI](https://github.com/AndnixSH/APKToolGUI) - GUI for apktool, signapk, zipalign and baksmali utilities.
 - [INF1NUM/APKToolGUI](https://github.com/INF1NUM/APKToolGUI) - 
 - [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
@@ -298,7 +298,7 @@
 
 ## Dockerfile 
 
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## EJS 
 
@@ -306,6 +306,7 @@
 
 ## Go 
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
@@ -384,6 +385,7 @@
 
 ## HTML 
 
+- [NomaDamas/slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" -- a Flat Data attempt at historically documenting GitHub statuses
 - [shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) - claude code hooks - adding voice on each hook
@@ -1186,7 +1188,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [pymatting/pymatting](https://github.com/pymatting/pymatting) - A Python library for alpha matting
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
