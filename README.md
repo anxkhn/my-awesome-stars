@@ -979,6 +979,7 @@
 - [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [astroncc/astron_app](https://github.com/astroncc/astron_app) - 
+- [rajput-hemant/jiosaavn-api-rs](https://github.com/rajput-hemant/jiosaavn-api-rs) - 
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [CSwala/awesome-career-pages](https://github.com/CSwala/awesome-career-pages) - An awesome list of job portals and career pages of top Startups, Product Based and Service-Based Companies.
 - [censored1948/CompanyList](https://github.com/censored1948/CompanyList) - 
@@ -1625,7 +1626,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [cjpais/transcribe-rs](https://github.com/cjpais/transcribe-rs) - a simple transcription library for rust
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -1661,7 +1662,6 @@
 - [kneasle/sapling](https://github.com/kneasle/sapling) - A highly experimental vi-inspired editor where you edit code, not text.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [vedic-lang/vedic](https://github.com/vedic-lang/vedic) - World's first working Sanskrit programming language — write code in Devanagari/Sanskrit.
-- [rajput-hemant/jiosaavn-api-rs](https://github.com/rajput-hemant/jiosaavn-api-rs) - 🎵 An Unofficial wrapper for the Jio Saavn API written in Rust programming language 🦀.
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
