@@ -311,7 +311,7 @@
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -405,7 +405,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [rpgeeganage/pII-guard](https://github.com/rpgeeganage/pII-guard) - 🛡️ PII Guard is an LLM-powered tool that detects and manages Personally Identifiable Information (PII) in logs — designed to support data privacy and GDPR compliance
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
@@ -589,6 +589,7 @@
 
 ## analytics 
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -1101,7 +1102,7 @@
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [anxkhn/IPMapper](https://github.com/anxkhn/IPMapper) - Fast offline IP-to-country lookup using RIR data with country names and currency support python package
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1341,6 +1342,7 @@
 
 ## data-engineering 
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
@@ -1350,6 +1352,7 @@
 
 ## data-science 
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [gee-community/geemap](https://github.com/gee-community/geemap) - A Python package for interactive geospatial analysis and visualization with Google Earth Engine.
 - [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committe
 - [mlabonne/how-to-data-science](https://github.com/mlabonne/how-to-data-science) - Scripts, notebooks, and articles about data science in general.
@@ -1503,7 +1506,7 @@
 - [jmuncor/tokentap](https://github.com/jmuncor/tokentap) - Intercept LLM API traffic and visualize token usage in a real-time terminal dashboard. Track costs,       debug prompts, and monitor context window usage across your AI development sessions.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac
 - [httptoolkit/httptoolkit-ui](https://github.com/httptoolkit/httptoolkit-ui) - The UI of HTTP Toolkit
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
@@ -1942,7 +1945,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [Gauthamjm007/Backend-NodeJS-Golang-Interview_QA](https://github.com/Gauthamjm007/Backend-NodeJS-Golang-Interview_QA) - A collection of Node JS and Golang Backend interview questions please feel free to fork and contribute to this repository
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [sukritishah15/DS-Algo-Point](https://github.com/sukritishah15/DS-Algo-Point) - This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
@@ -2044,7 +2047,7 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [Aldeshov/ADBFileExplorer](https://github.com/Aldeshov/ADBFileExplorer) - File Explorer for Android devices
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [Aashishkumar123/Python-GUI-Project](https://github.com/Aashishkumar123/Python-GUI-Project) - A Repositry that contains 20+ GUI Projects on python Tkinter
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
@@ -2592,7 +2595,7 @@
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
@@ -2646,7 +2649,6 @@
 - [qualcomm/nexa-sdk](https://github.com/qualcomm/nexa-sdk) - Run frontier LLMs and VLMs with day-0 model support across GPU, NPU, and CPU, with comprehensive runtime coverage for PC (Python/C++), mobile (Android & iOS), and Linux/IoT (Arm64 & x86 Docker). Suppo
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
@@ -2779,6 +2781,7 @@
 
 - [anxkhn/hp1020-driver-mac](https://github.com/anxkhn/hp1020-driver-mac) - Minimal HP LaserJet 1020 driver for modern macOS
 - [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immedi
+- [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
@@ -2813,7 +2816,7 @@
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -3191,7 +3194,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli) - Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent through direct function calling or a unified MCP server. The birthplace of VibeOps.
 - [briehq/brie-extension](https://github.com/briehq/brie-extension) - Capture screenshots, console errors, network issues, and user actions, giving developers full context instantly.
@@ -3317,13 +3320,13 @@
 
 ## others 
 
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [NomaDamas/slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
-- [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
 - [caozhiyuan/copilot-api](https://github.com/caozhiyuan/copilot-api) - OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please read README.md completely before use!
 - [voidsteed/copilot-proxy-api](https://github.com/voidsteed/copilot-proxy-api) - use github copilot in Claude code and Codex
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
@@ -4212,7 +4215,7 @@
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [vacisdev/windows11](https://github.com/vacisdev/windows11) - 🪐 Perfect Windows 11: A Portal to Windows 11 Settings, Optimizations, and Scripts
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
@@ -4286,6 +4289,7 @@
 
 ## python 
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -5429,7 +5433,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [vacisdev/windows11](https://github.com/vacisdev/windows11) - 🪐 Perfect Windows 11: A Portal to Windows 11 Settings, Optimizations, and Scripts
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [Welding-Torch/installc](https://github.com/Welding-Torch/installc) - Install C on Windows with just one click.
