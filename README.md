@@ -371,7 +371,7 @@
 - [Chirag-And-Dheeraj/Dekho](https://github.com/Chirag-And-Dheeraj/Dekho) - A research/study project for understanding and learning the fundamentals of audio/video streaming.
 - [anthdm/wazero](https://github.com/anthdm/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
+- [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 - [tautcony/qart](https://github.com/tautcony/qart) - QArt Codes generator
@@ -1100,6 +1100,8 @@
 
 ## Python 
 
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -1449,6 +1451,7 @@
 - [frappe/bench](https://github.com/frappe/bench) - CLI to manage Multi-tenant deployments for Frappe apps
 - [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [everydaycodings/MimicMania](https://github.com/everydaycodings/MimicMania) - MimicMania is a web application that allows you to generate speech and clone voices using text-to-speech technology. With MimicMania, you can create custom voices in a variety of languages and use the
@@ -1904,7 +1907,7 @@
 - [arshad-yaseen/markdx](https://github.com/arshad-yaseen/markdx) - Simple, fast and flexible AI-powered Markdown editor
 - [apify/fingerprint-suite](https://github.com/apify/fingerprint-suite) - Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
@@ -2026,7 +2029,6 @@
 - [WindChat-Link/windchat-extension](https://github.com/WindChat-Link/windchat-extension) - v0.dev open-source alternative
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code, supports 223 formats. AI-ready with token-efficient reporter, skill and MCP server.
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [gBasil/garden](https://github.com/gBasil/garden) - A simple web archive.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
