@@ -1542,7 +1542,6 @@
 - [wiwa1978/blog-hugo-netlify-code](https://github.com/wiwa1978/blog-hugo-netlify-code) - 
 - [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 - [initstring/linkedin2username](https://github.com/initstring/linkedin2username) - OSINT Tool: Generate username lists for companies on LinkedIn
-- [frappe/gameplan](https://github.com/frappe/gameplan) - Open Source Discussions Platform for Remote Teams
 - [aaryanrr/Railway-Management](https://github.com/aaryanrr/Railway-Management) - A Railway Management System using MySQL as Backend Database
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [codedex-io/python-101](https://github.com/codedex-io/python-101) - The Legend of Python 🐍
@@ -1875,7 +1874,7 @@
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the AI powered intelligence layer for all your confidential workflows. On Windows & MacOS. Perfect for government, defence, legal and CXOs.
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
 - [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -2089,6 +2088,7 @@
 - [zernonia/vue0](https://github.com/zernonia/vue0) - Vue version open source alternative for v0.dev
 - [zernonia/keypress](https://github.com/zernonia/keypress) - KeyPress - an open-source blogging platform + free custom domains.
 - [ekaranjaa/norman-portfolio](https://github.com/ekaranjaa/norman-portfolio) - Norman Nuthu's Portfolio
+- [frappe/gameplan](https://github.com/frappe/gameplan) - Open Source Discussions Platform for Remote Teams
 - [moja-global/FLINT-UI](https://github.com/moja-global/FLINT-UI) - A experimental FLINT client, written in Vue, to provide an awesome user interface for configuring simulations using the FLINT.Cloud APIs.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
