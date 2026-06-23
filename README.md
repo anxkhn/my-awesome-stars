@@ -494,7 +494,6 @@
 - [SafeExamBrowser/seb-server](https://github.com/SafeExamBrowser/seb-server) - The Safe Exam Browser Server web application simplifies and centralizes the configuration of SEB clients for exams. It interacts with a learning management or exam system for setting up and conducting
 - [cinit/TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
 - [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - Learn Low Level Design (LLD) and prepare for interviews using free resources.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Emosans/tic-tac-toe](https://github.com/Emosans/tic-tac-toe) - 
 - [znsio/teswiz](https://github.com/znsio/teswiz) - End-2-End framework for Native & Web Automation using Cucumber-jvm, Appium, Selenium WebDriver, Applitools & ReportPortal
 - [eclipse-sw360/sw360](https://github.com/eclipse-sw360/sw360) - SW360 project
@@ -1096,7 +1095,7 @@
 
 ## Python 
 
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -1973,6 +1972,7 @@
 - [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
