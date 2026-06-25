@@ -99,6 +99,7 @@
 
 ## C 
 
+- [anxkhn/badgeboy](https://github.com/anxkhn/badgeboy) - Game Boy / Game Boy Color emulator for the GitHub Universe 2025 badge (Pimoroni Tufty 2350, RP2350B)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [xiaomi-sm6375-devs/android_device_xiaomi_veux](https://github.com/xiaomi-sm6375-devs/android_device_xiaomi_veux) - 
 - [eonlynx/pokecrossroads](https://github.com/eonlynx/pokecrossroads) - A ROM hack of Pokémon Emerald that aims to join Kanto, Johto and Hoenn in a single adventure.
@@ -245,7 +246,7 @@
 - [codewithsadee/music-player](https://github.com/codewithsadee/music-player) - A fully responsive web music player using vanilla javascript, Responsive for all devices, build using html, css, and javascript.
 - [codewithsadee/portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io) - A roadmap for "generative AI" learning resources
-- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - Your ultimate source for Nothing OS firmware, stock OTA images, community apps, projects, resources and comprehensive guides for Nothing & CMF devices
+- [spike0en/nothing_archive](https://github.com/spike0en/nothing_archive) - Nothing Community Apps & Projects Index • Nothing OS Firmware Archive • OTA Updates & Changelogs for Nothing Phones & CMF By Nothing Phones • Tools for Nothing Glyph LED & Glyph Matrix • GCam Configs 
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [cs50/cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
 - [jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project](https://github.com/jabbalaci/Flask-TailwindCSS-HTMX-Sample-Project) - A Flask + Tailwind CSS + HTMX sample project
@@ -287,7 +288,7 @@
 - [SumilSuthar197/MAD-LAB](https://github.com/SumilSuthar197/MAD-LAB) - 
 - [florent37/Flutter-AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) - Play simultaneously music/audio from assets/network/file directly from Flutter, compatible with android / ios / web / macos, displays notifications
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [ekakshjanweja/NotWhatsapp](https://github.com/ekakshjanweja/NotWhatsapp) - 
 - [prasad1909/MedEasey](https://github.com/prasad1909/MedEasey) - 
 - [SirusCodes/backend_benchmark](https://github.com/SirusCodes/backend_benchmark) - Backend benchmarking of Python, Node, and Dart frameworks
@@ -307,6 +308,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - The verification layer for coding agents
+- [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -337,6 +339,7 @@
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [SirusCodes/AntiLang](https://github.com/SirusCodes/AntiLang) - An esoteric language with an aim to break all the programming conventions
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [CRED-CLUB/propeller](https://github.com/CRED-CLUB/propeller) - Push platform for realtime and bidirectional communication between clients and servers
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -832,7 +835,7 @@
 
 ## Lua 
 
-- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Bridge Neovim and OpenCode AI to stay in your flow.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - Integrate Neovim and OpenCode to stay in your familiar flow.
 - [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
@@ -1096,6 +1099,9 @@
 
 ## Python 
 
+- [resemble-ai/Resemblyzer](https://github.com/resemble-ai/Resemblyzer) - A python package to analyze and compare voices with deep learning
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [neatlogs/neatlogs](https://github.com/neatlogs/neatlogs) - AI agent debugging, collaboration, and trace observability. Built for teams using CrewAI, OpenAI, and more.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 - [badger/home](https://github.com/badger/home) - Welcome to your Hackable Conference Badge
@@ -1299,7 +1305,6 @@
 - [StarsfieldAI/R1-V](https://github.com/StarsfieldAI/R1-V) - Witness the aha moment of VLM with less than $3.
 - [yashbhangale/lenovo-vantage-features-for-linux](https://github.com/yashbhangale/lenovo-vantage-features-for-linux) - Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlik
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [whatotter/cmf-watch-firmware](https://github.com/whatotter/cmf-watch-firmware) - FW dump of the CMF Watch Pro 2
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
@@ -1566,6 +1571,7 @@
 
 ## Ruby 
 
+- [sunaku/tamzen-font](https://github.com/sunaku/tamzen-font) - 💌 Bitmapped programming font, based on Tamsyn
 - [fayazara/homebrew-tap](https://github.com/fayazara/homebrew-tap) - Homebrew tap for Screendrop
 - [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
@@ -1596,6 +1602,8 @@
 
 ## Rust 
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
+- [Altaflux/gb-rp2350](https://github.com/Altaflux/gb-rp2350) - 
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1622,7 +1630,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/kreuzberg](https://github.com/xberg-io/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic Python HTTP Client with TLS fingerprint
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic Rust HTTP Client with TLS fingerprint
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -1797,6 +1805,7 @@
 
 ## TypeScript 
 
+- [Ashutoshx7/VengenceUI](https://github.com/Ashutoshx7/VengenceUI) - VengeanceUI helps you to build  your landing page by providing you animated beautiful components out of the box which you can copy and paste  and  make your landing page Awesome ,Subtle and of course 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [superloglabs/superlog](https://github.com/superloglabs/superlog) - Open-source observability tool that uses AI agents to self-heal your software
 - [caozhiyuan/copilot-api](https://github.com/caozhiyuan/copilot-api) - OpenAI and Anthropic-compatible gateway for GitHub Copilot or Codex or third-party providers. Please read README.md completely before use!
@@ -1831,7 +1840,6 @@
 - [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [upstash/botstreet](https://github.com/upstash/botstreet) - Agent Trading Arena --- Three AI agents. $100k each. Real market prices. Who wins?
-- [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [12fahed/CertiNova](https://github.com/12fahed/CertiNova) - Bulk certificate generator and validation platform with strict data privacy
 - [justrach/dhi](https://github.com/justrach/dhi) - ⚡ Ultra-fast data validation for Python & TypeScript. Drop-in Pydantic/Zod replacement powered by Zig + SIMD WASM.
