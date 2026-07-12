@@ -46,7 +46,6 @@
 - [Prolog](#prolog)
 - [PureScript](#purescript)
 - [Python](#python)
-- [R](#r)
 - [Ren'Py](#ren'py)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -525,6 +524,7 @@
 
 ## Java 
 
+- [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
@@ -568,7 +568,6 @@
 - [LAKSH3002/java-games](https://github.com/LAKSH3002/java-games) - A few basic games using java awt and swing and their methods/classes.
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
 - [krlvm/PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 - [abh80/smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android.
@@ -597,7 +596,7 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [anxkhn/opencode-usage](https://github.com/anxkhn/opencode-usage) - the missing OpenCode /usage command showing daily, weekly, monthly and all-time token + cost stats
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
-- [willytop8/OpenCode-goal-plugin](https://github.com/willytop8/OpenCode-goal-plugin) - adds /goal functionality similar to that used in Codex and Claude Code to OpenCode. Please report them if you have any issues!
+- [willytop8/OpenCode-goal-plugin](https://github.com/willytop8/OpenCode-goal-plugin) - Durable, guarded goal workflows for OpenCode with persistence, safety limits, agent tools, and evidence-gated completion.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Kikobeats/untracked](https://github.com/Kikobeats/untracked) - Universal way for ignoring unnecessary common files to fit your bundle
@@ -877,6 +876,7 @@
 - [CerritusCodersComm/eduJam](https://github.com/CerritusCodersComm/eduJam) - eduJam is an university app, which will help you with all of your university work*
 - [Dr-TSNG/TwiFucker](https://github.com/Dr-TSNG/TwiFucker) - Yet Another Adkiller for Twitter
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
+- [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [Domi04151309/BatteryTool](https://github.com/Domi04151309/BatteryTool) - Battery Tool helps you save battery by stopping apps that are running in the background.
 - [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Privacy focused translator app built with MD3
 - [eswd04/freeform_update](https://github.com/eswd04/freeform_update) - eswd custom Mi-freeform update
@@ -1307,7 +1307,6 @@
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large multi-modality models (LMMs), support 220+ LMMs, 80+ benchmarks
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
@@ -1655,10 +1654,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-## R 
-
-- [aadilv/rukhsa](https://github.com/aadilv/rukhsa) - Islamic fiqh rulings for Muslims with medical conditions
-
 ## Ren'Py 
 
 - [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - A visual novel video game where you learn to code and get a dev job 🎯
@@ -1696,6 +1691,7 @@
 
 ## Rust 
 
+- [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
@@ -2035,6 +2031,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
