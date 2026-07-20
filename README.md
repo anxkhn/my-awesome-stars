@@ -938,6 +938,7 @@
 
 ## Others 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) - Community Management for K8sGPT
@@ -1747,8 +1748,8 @@
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, censorship-resistant Python HTTP Client
-- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, censorship-resistant Rust HTTP Client
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
+- [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, privacy-aware Rust HTTP Client
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
@@ -2021,7 +2022,7 @@
 - [gommzystudio/device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Si
 - [reg-viz/storycap](https://github.com/reg-viz/storycap) - A Storybook Addon, Save the screenshot image of your stories :camera: via puppeteer.
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
-- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
+- [ruzin/stenoai](https://github.com/ruzin/stenoai) - Steno is the privacy-first AI notepad & notetaker for all your confidential conversations. On Windows & MacOS. Perfect for government, healthcare, defence, legal and CXOs.
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
 - [RhysSullivan/epstein-files-browser](https://github.com/RhysSullivan/epstein-files-browser) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
