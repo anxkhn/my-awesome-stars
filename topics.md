@@ -3672,6 +3672,7 @@
 
 ## others 
 
+- [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue) - Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [HarryYCChou/lcx](https://github.com/HarryYCChou/lcx) - LeetCode in your terminal
