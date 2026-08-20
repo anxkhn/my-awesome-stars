@@ -161,6 +161,7 @@
 
 ## C# # 
 
+- [a2aproject/a2a-dotnet](https://github.com/a2aproject/a2a-dotnet) - C#/.NET SDK for A2A Protocol
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - 
 - [Ruben2776/PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 - [TheAirBlow/HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
@@ -318,6 +319,7 @@
 
 ## Go 
 
+- [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go) - Golang SDK for A2A Protocol
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
@@ -366,7 +368,6 @@
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
-- [google-deepmind/simply](https://github.com/google-deepmind/simply) - Minimal and scalable research codebase in JAX, designed for rapid iteration on frontier research in LLM and other autoregressive models.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -447,6 +448,7 @@
 - [shanraisshan/claude-code-hooks](https://github.com/shanraisshan/claude-code-hooks) - claude code hooks - adding voice on each hook
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [qurbat/dnsblocks.in](https://github.com/qurbat/dnsblocks.in) - GitHub Pages repository for the Poisoned Wells project website
+- [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [bhavul/System-Design-Cheatsheet](https://github.com/bhavul/System-Design-Cheatsheet) - System Design Studying can be daunting. This gives you a table to study different problems, understand what components they require, their pros and cons, and how to deal with mitigations.
@@ -503,6 +505,7 @@
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++03/11/14/17/20/23/26)
 - [binbard/leet-xt](https://github.com/binbard/leet-xt) - Supercharge your LeetCode practice - Add to Friends, Premium Features, per Contest Friends Rating, and more!
 - [wiz64/saavn-web-ui](https://github.com/wiz64/saavn-web-ui) - Saavn Music Player & MP3 Downloader - Web UI for saavn-unofficial api. Search and play ad-free music.
+- [zapplyjobs/Internships-2027](https://github.com/zapplyjobs/Internships-2027) - 2027 tech & software engineering internships for students — new grad US roles, summer & full-year
 - [JadenFurtado/LLaMaO](https://github.com/JadenFurtado/LLaMaO) - NLP, Transformers, LLMs and stuff like that
 - [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
@@ -545,6 +548,7 @@
 
 ## Java 
 
+- [a2aproject/a2a-java](https://github.com/a2aproject/a2a-java) - Official Java SDK for the Agent2Agent (A2A) Protocol
 - [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - [apache/calcite](https://github.com/apache/calcite) - Apache Calcite
@@ -645,7 +649,6 @@
 - [eisbaw/cursor_api_demo](https://github.com/eisbaw/cursor_api_demo) - Cursor IDE (v2.6.22) backend endpoint API reverse engineered
 - [Portkey-AI/models](https://github.com/Portkey-AI/models) - This repository contains comprehensive pricing and configuration data for LLMs. It powers cost attribution for 200+ enterprises running 400B+ tokens through Portkey AI Gateway every day.
 - [stdlib-js/datasets-cmudict](https://github.com/stdlib-js/datasets-cmudict) - The Carnegie Mellon Pronouncing Dictionary (CMUdict).
-- [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) - Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [kartikpapney/compensation](https://github.com/kartikpapney/compensation) - The Compensation project is a platform designed specifically for Software Engineers to visualize and analyze data from the Leetcode Compensation section
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
@@ -813,6 +816,7 @@
 
 ## Jupyter Notebook 
 
+- [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples) - Samples using the Agent2Agent (A2A) Protocol
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 - [google-deepmind/alphaevolve_repository_of_problems](https://github.com/google-deepmind/alphaevolve_repository_of_problems) - 
@@ -964,6 +968,9 @@
 
 ## Others 
 
+- [a2aproject/experimental-ext-oid4vp-auth](https://github.com/a2aproject/experimental-ext-oid4vp-auth) - OID4VP In-Task Authorization Extension for A2A.
+- [a2aproject/experimental-cpb-slimrpc](https://github.com/a2aproject/experimental-cpb-slimrpc) - SLIMRPC custom protocol binding for A2A.
+- [a2aproject/a2a-gateway](https://github.com/a2aproject/a2a-gateway) - A2A Gateway allowing hooking up A2A Agents to different communications channels
 - [github/GitHub-Copilot-Dev-Days](https://github.com/github/GitHub-Copilot-Dev-Days) - Repo for GitHub Copilot Dev Days content, global in-person series of events focused on GitHub Copilot.
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
 - [renderffx/raw-bits-to-react](https://github.com/renderffx/raw-bits-to-react) - CPU → cache → TCP → browser engine → JS VM → Fiber React → 60 fps / learn react like god !
@@ -1080,7 +1087,6 @@
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [CSwala/awesome-career-pages](https://github.com/CSwala/awesome-career-pages) - An awesome list of job portals and career pages of top Startups, Product Based and Service-Based Companies.
 - [censored1948/CompanyList](https://github.com/censored1948/CompanyList) - 
-- [zapplyjobs/Research-Internships-for-Undergraduates](https://github.com/zapplyjobs/Research-Internships-for-Undergraduates) - Research internships + summer programs for undergraduate students worldwide (NASA, CERN, Max Planck, +100 more)
 - [Leader-board/OA-and-Interviews](https://github.com/Leader-board/OA-and-Interviews) - The guide to online assessments and interviews
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for developers
 - [KreakEmp/InterviewPrep](https://github.com/KreakEmp/InterviewPrep) - Resources for interview preparations
@@ -1197,6 +1203,9 @@
 
 ## Python 
 
+- [a2aproject/a2a-itk](https://github.com/a2aproject/a2a-itk) - Integration Testing Kit for A2A SDKs
+- [a2aproject/a2a-tck](https://github.com/a2aproject/a2a-tck) - 
+- [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK for the Agent2Agent (A2A) Protocol
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -1204,7 +1213,7 @@
 - [shriramkv/TheAIAgents](https://github.com/shriramkv/TheAIAgents) - Here you can get the complete guidelines helping you build AI agents! All from scratch!
 - [manthanguptaa/water](https://github.com/manthanguptaa/water) - The production-ready agent harness framework for Python
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API key
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [google-deepmind/acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents
@@ -1260,6 +1269,7 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
 - [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [microsoft/Webwright](https://github.com/microsoft/Webwright) - A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks.
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
@@ -1286,6 +1296,7 @@
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [anxkhn/codex-openai-proxy](https://github.com/anxkhn/codex-openai-proxy) - Minimal OpenAI-compatible proxy powered by Codex ChatGPT OAuth subscription auth.
+- [google-deepmind/simply](https://github.com/google-deepmind/simply) - Minimal and scalable research codebase in JAX, designed for rapid iteration on frontier research in LLM and other autoregressive models.
 - [google-deepmind/nanodo](https://github.com/google-deepmind/nanodo) - 
 - [cneuralnetwork/nanosarvam](https://github.com/cneuralnetwork/nanosarvam) - A repo to train your own small sarvam-30b model
 - [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) - Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.
@@ -1350,7 +1361,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [pymatting/pymatting](https://github.com/pymatting/pymatting) - A Python library for alpha matting
 - [ufal/SimulStreaming](https://github.com/ufal/SimulStreaming) - 
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
@@ -1507,7 +1518,7 @@
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [anxkhn/FFpy](https://github.com/anxkhn/FFpy) - FFpy is a command-line tool that measures the execution time of Python scripts. It provides flexibility by allowing you to specify the time unit (milliseconds or seconds) and the number of runs for mo
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -1750,6 +1761,7 @@
 
 ## Rust 
 
+- [a2aproject/a2a-rs](https://github.com/a2aproject/a2a-rs) - A2A Rust SDK
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
@@ -1876,6 +1888,7 @@
 
 ## Shell 
 
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
 - [flyingPenguinW/brave-origin](https://github.com/flyingPenguinW/brave-origin) - 🦁 Turn Brave into Brave Origin — fully debloated, privacy-hardened, and actually fast.
 - [cncf/devstats](https://github.com/cncf/devstats) - 📈CNCF-created tool for analyzing and graphing developer contributions
@@ -1926,6 +1939,7 @@
 
 ## Swift 
 
+- [socratic-ai/cosmo-ai](https://github.com/socratic-ai/cosmo-ai) - Cosmo AI — realtime voice and multimodal agent SDKs. Start here: SDK repos, docs, and examples.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS 27
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
@@ -1976,6 +1990,8 @@
 
 ## TypeScript 
 
+- [a2aproject/a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation Tools for A2A Agents
+- [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js) - Official JavaScript SDK for the Agent2Agent (A2A) Protocol
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [brightdata/cli](https://github.com/brightdata/cli) - Official Bright Data CLI - scrape, search, and extract structured web data directly from your terminal.
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
@@ -2013,7 +2029,6 @@
 - [caozhiyuan/copilot-api](https://github.com/caozhiyuan/copilot-api) - GitHub Copilot, OpenAI Codex, OpenCode Go, and third-party AI provider gateway with OpenAI and Anthropic API compatibility.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [voidsteed/copilot-proxy-api](https://github.com/voidsteed/copilot-proxy-api) - Self-hosted GitHub Copilot bridge for Claude Code and Codex CLI with OpenAI Responses, Anthropic Messages, streaming resilience, and context management.
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
 - [shashankswe2020-ux/whoop-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) - MCP server to connect to whoop API
 - [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.
