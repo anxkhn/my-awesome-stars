@@ -709,6 +709,7 @@
 
 ## android 
 
+- [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
 - [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
 - [software-mansion/argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.
@@ -1249,7 +1250,6 @@
 ## claude-code 
 
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -2164,7 +2164,6 @@
 
 ## gh-extension 
 
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 
 ## gis 
@@ -3202,7 +3201,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [anxkhn/hp1020-driver-mac](https://github.com/anxkhn/hp1020-driver-mac) - Minimal HP LaserJet 1020 driver for modern macOS
-- [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immedi
+- [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli) - Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -3644,6 +3643,7 @@
 
 ## open-source 
 
+- [DhananjayBhosale/hilight-studio](https://github.com/DhananjayBhosale/hilight-studio) - Experimental Pixel 11 HiLight LED controller for Android 17.
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
 - [apsinghdev/opensox](https://github.com/apsinghdev/opensox) - Find the perfect open source project to contribute
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -5667,7 +5667,7 @@
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS 27
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A native macOS menu bar app for taking screenshots, recording the screen, annotating captures, and sharing them when needed. It is built for a fast local workflow: capture something, preview it immedi
+- [fayazara/Screendrop](https://github.com/fayazara/Screendrop) - A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
