@@ -622,7 +622,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [AverageMarcus/devstats-viewer](https://github.com/AverageMarcus/devstats-viewer) - Discover your CNCF devstats score based on your GitHub username
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [anxkhn/opencode-usage](https://github.com/anxkhn/opencode-usage) - the missing OpenCode /usage command showing daily, weekly, monthly and all-time token + cost stats
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [willytop8/OpenCode-goal-plugin](https://github.com/willytop8/OpenCode-goal-plugin) - Durable, guarded goal workflows for OpenCode with persistence, safety limits, agent tools, and evidence-gated completion.
@@ -786,7 +786,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [hritik2002/tag-all](https://github.com/hritik2002/tag-all) - Whats-app bot which tags(mentions) all the participants in a group when '@team' or '@everyone' is sent.
 - [mgechev/google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [manoharreddyporeddy/programming-language-notes](https://github.com/manoharreddyporeddy/programming-language-notes) - my programming language notes --- successfully 500 commits :-)
 - [Pixelkit/PixelKit-Bootstrap-UI-Kits](https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits) - Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
 - [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
@@ -1829,6 +1829,7 @@
 - [Narsil/rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -1888,6 +1889,7 @@
 
 ## Shell 
 
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
 - [flyingPenguinW/brave-origin](https://github.com/flyingPenguinW/brave-origin) - 🦁 Turn Brave into Brave Origin — fully debloated, privacy-hardened, and actually fast.
@@ -2000,7 +2002,7 @@
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [TanStack/markdown](https://github.com/TanStack/markdown) - Tiny, fast Markdown parsing and rendering for blogs and documentation
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
@@ -2123,7 +2125,7 @@
 - [mrkrsl/web-search-mcp](https://github.com/mrkrsl/web-search-mcp) - A simple, locally hosted Web Search MCP server for use with Local LLMs
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
-- [KartikLabhshetwar/screenshot-studio](https://github.com/KartikLabhshetwar/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
+- [opennookorg/screenshot-studio](https://github.com/opennookorg/screenshot-studio) - A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [kevinanielsen/go-fast-cdn](https://github.com/kevinanielsen/go-fast-cdn) - A fast and easy-to-use CDN, built with Go.
@@ -2179,7 +2181,6 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [yoavg/pdf-tab-renamer](https://github.com/yoavg/pdf-tab-renamer) - chrome extension for renaming tabs showing paper-pdfs from common providers
