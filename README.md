@@ -992,6 +992,7 @@
 - [hadnet/vscode-islands-dark-settings](https://github.com/hadnet/vscode-islands-dark-settings) - 
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup
 - [m-lab/gsoc](https://github.com/m-lab/gsoc) - Google Summer of Code (GSoC) @ M-Lab
+- [neon-solutions/add-mcp](https://github.com/neon-solutions/add-mcp) - The open MCP config tool - npx add-mcp
 - [wuyichen24/software-engineering-abbreviations-acronyms](https://github.com/wuyichen24/software-engineering-abbreviations-acronyms) - Abbreviations and acronyms in software engineering, DevOps, IT and business
 - [hanzalahwaheed/ascii-art-in-terminal](https://github.com/hanzalahwaheed/ascii-art-in-terminal) - 
 - [google/mcp](https://github.com/google/mcp) - Google 💚 MCP
@@ -1210,7 +1211,7 @@
 - [a2aproject/a2a-itk](https://github.com/a2aproject/a2a-itk) - Integration Testing Kit for A2A SDKs
 - [a2aproject/a2a-tck](https://github.com/a2aproject/a2a-tck) - 
 - [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) - Official Python SDK for the Agent2Agent (A2A) Protocol
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -1455,7 +1456,7 @@
 - [SirusCodes/picarch](https://github.com/SirusCodes/picarch) - Picarch is a Python project for face detection and image similarity search using insightface and PostgreSQL.
 - [beibuwandeluori/DRCT](https://github.com/beibuwandeluori/DRCT) - The official code of "DRCT: Diffusion Reconstruction Contrastive Training towards Universe Detection of Diffusion Generated Images"
 - [safzanpirani/acecoder-open](https://github.com/safzanpirani/acecoder-open) - Your secret AI weapon for coding challenges.
-- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.
 - [SebiAi/custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) - A repo containing scripts and tools for creating custom Nothing Glyph compositions.
 - [MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases](https://github.com/MokshitSurana/Cross-Lingual-Text-to-Video-Synthesis-of-Government-Press-Releases) - Text to Video of various PIB Press Releases using Artificial Intelligence / Machine Learning / Generative Adversarial Networks in English and 13 Regional Languages viz. Hindi, Urdu, Punjabi, Gujarati,
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -1463,7 +1464,7 @@
 - [google-gemini/deprecated-generative-ai-python](https://github.com/google-gemini/deprecated-generative-ai-python) - This SDK is now deprecated, use the new unified Google GenAI SDK.
 - [shukraditya/deepseek-rag](https://github.com/shukraditya/deepseek-rag) - 
 - [MiForge/MiTool](https://github.com/MiForge/MiTool) - Unlock the bootloader, flash ROMs, and more for Xiaomi devices (no PC needed, works from another phone via Termux).
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [StarsfieldAI/R1-V](https://github.com/StarsfieldAI/R1-V) - Witness the aha moment of VLM with less than $3.
@@ -1763,6 +1764,7 @@
 
 ## Rust 
 
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [a2aproject/a2a-rs](https://github.com/a2aproject/a2a-rs) - A2A Rust SDK
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -1806,7 +1808,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [0x676e67/wreq](https://github.com/0x676e67/wreq) - An ergonomic, privacy-aware Rust HTTP Client
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -2086,7 +2088,6 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
-- [neon-solutions/add-mcp](https://github.com/neon-solutions/add-mcp) - The open MCP config tool - npx add-mcp
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [mayfer/electrobun-macos-native-blur](https://github.com/mayfer/electrobun-macos-native-blur) - Enable background blur like a native app in Electrobun
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
