@@ -443,6 +443,7 @@
 
 ## HTML 
 
+- [github/dev-days](https://github.com/github/dev-days) - 
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 - [NomaDamas/slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
@@ -615,6 +616,7 @@
 
 ## JavaScript 
 
+- [dpak-maurya/irctc-tatkal-ticket-booking](https://github.com/dpak-maurya/irctc-tatkal-ticket-booking) - IRCTC ticket booking
 - [p2r3/ha.mr](https://github.com/p2r3/ha.mr) - Static URL compressor and QR code optimizer
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world landing page
@@ -1519,7 +1521,7 @@
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Born as an AI web agent that applied to jobs in bulk. Becoming a general one: an agent you point at the web and tell what to do.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
 - [anxkhn/FFpy](https://github.com/anxkhn/FFpy) - FFpy is a command-line tool that measures the execution time of Python scripts. It provides flexibility by allowing you to specify the time unit (milliseconds or seconds) and the number of runs for mo
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -1773,7 +1775,7 @@
 - [HarryYCChou/lcx](https://github.com/HarryYCChou/lcx) - LeetCode in your terminal
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) - The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand
@@ -1946,7 +1948,7 @@
 
 ## Swift 
 
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [socratic-ai/cosmo-ai](https://github.com/socratic-ai/cosmo-ai) - Cosmo AI — realtime voice and multimodal agent SDKs. Start here: SDK repos, docs, and examples.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS 27
@@ -1998,6 +2000,7 @@
 
 ## TypeScript 
 
+- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [Rajesh-Royal/Broprint.js](https://github.com/Rajesh-Royal/Broprint.js) - The world's easiest, smallest and powerful visitor identifier for browsers.
 - [a2aproject/a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation Tools for A2A Agents
 - [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js) - Official JavaScript SDK for the Agent2Agent (A2A) Protocol
@@ -2076,7 +2079,7 @@
 - [CopilotKit/OpenGenerativeUI](https://github.com/CopilotKit/OpenGenerativeUI) - Open-Source Generative UI Framework
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
-- [ink1ing/anti-api](https://github.com/ink1ing/anti-api) - Turn Antigravity / codex / github copilot into Anthropic & Openai API compatible server. Usable with Claude Code / Xcode etc.
+- [silasxbt/anti-api](https://github.com/silasxbt/anti-api) - Turn Antigravity / codex / github copilot into Anthropic & Openai API compatible server. Usable with Claude Code / Xcode etc.
 - [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) - Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcrip
 - [lambdaflows/freely](https://github.com/lambdaflows/freely) - 
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
@@ -2090,7 +2093,7 @@
 - [kitlangton/tailcode](https://github.com/kitlangton/tailcode) - 
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
