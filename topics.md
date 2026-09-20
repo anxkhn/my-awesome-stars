@@ -3324,6 +3324,7 @@
 
 ## mcp 
 
+- [google/sam](https://github.com/google/sam) - SAM
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
@@ -3832,6 +3833,10 @@
 
 ## others 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [anxkhn/JevPlaysPokemon](https://github.com/anxkhn/JevPlaysPokemon) - Jev plays Generation 3 Pokémon via Showdown and a real FireRed ROM.
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - i. am. speed.
+- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [e-ave/DRM-Downloader](https://github.com/e-ave/DRM-Downloader) - An upgraded version of TPD-Keys that automatically downloads, decrypts, verifies, and merges the mp4 file after grabbing the keys using a local CDM file.
 - [Frooastside/node-widevine](https://github.com/Frooastside/node-widevine) - 
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
