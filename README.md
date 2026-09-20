@@ -324,6 +324,7 @@
 
 ## Go 
 
+- [google/sam](https://github.com/google/sam) - SAM
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
 - [a2aproject/a2a-go](https://github.com/a2aproject/a2a-go) - Golang SDK for A2A Protocol
@@ -446,6 +447,7 @@
 
 ## HTML 
 
+- [anxkhn/JevPlaysPokemon](https://github.com/anxkhn/JevPlaysPokemon) - Jev plays Generation 3 Pokémon via Showdown and a real FireRed ROM.
 - [anxkhn/cali-display](https://github.com/anxkhn/cali-display) - Cali Display, a heavy irregular display face.
 - [github/dev-days](https://github.com/github/dev-days) - 
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
@@ -977,6 +979,7 @@
 
 ## Others 
 
+- [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
 - [ready-dl/pyplayready](https://github.com/ready-dl/pyplayready) - Python implementation of Microsoft's Playready DRM CDM (Content Decryption Module)
 - [a2aproject/experimental-ext-oid4vp-auth](https://github.com/a2aproject/experimental-ext-oid4vp-auth) - OID4VP In-Task Authorization Extension for A2A.
 - [a2aproject/experimental-cpb-slimrpc](https://github.com/a2aproject/experimental-cpb-slimrpc) - SLIMRPC custom protocol binding for A2A.
@@ -1211,6 +1214,7 @@
 
 ## Python 
 
+- [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - i. am. speed.
 - [e-ave/DRM-Downloader](https://github.com/e-ave/DRM-Downloader) - An upgraded version of TPD-Keys that automatically downloads, decrypts, verifies, and merges the mp4 file after grabbing the keys using a local CDM file.
 - [bwhtech/buzz](https://github.com/bwhtech/buzz) - Open Source, Powerful, and Comprehensive Event Management Platform
 - [widevineleak/pyplayready](https://github.com/widevineleak/pyplayready) - Python implementation of Microsoft's Playready DRM CDM (Content Decryption Module)
@@ -2012,6 +2016,7 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Frooastside/node-widevine](https://github.com/Frooastside/node-widevine) - 
 - [Nexvyn/runeicons](https://github.com/Nexvyn/runeicons) - Rune Icons is a set of 900+ icons, each drawn in five styles.
 - [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
