@@ -632,7 +632,7 @@
 - [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 - [nk521/ncmc-transit-card](https://github.com/nk521/ncmc-transit-card) - notes on ncmc transit card's infra + my assumptions
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [AverageMarcus/devstats-viewer](https://github.com/AverageMarcus/devstats-viewer) - Discover your CNCF devstats score based on your GitHub username
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [anxkhn/opencode-usage](https://github.com/anxkhn/opencode-usage) - the missing OpenCode /usage command showing daily, weekly, monthly and all-time token + cost stats
@@ -825,6 +825,7 @@
 
 ## Jupyter Notebook 
 
+- [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench) - HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
 - [a2aproject/a2a-samples](https://github.com/a2aproject/a2a-samples) - Samples using the Agent2Agent (A2A) Protocol
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
@@ -1213,6 +1214,9 @@
 
 ## Python 
 
+- [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) - Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
+- [cysecbench/dataset](https://github.com/cysecbench/dataset) - Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
@@ -1537,7 +1541,7 @@
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [atlanhq/camelot](https://github.com/atlanhq/camelot) - Camelot: PDF Table Extraction for Humans
-- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Anti-detect agentic stealth browser: undetected browsing, browser automation, Python AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [anxkhn/FFpy](https://github.com/anxkhn/FFpy) - FFpy is a command-line tool that measures the execution time of Python scripts. It provides flexibility by allowing you to specify the time unit (milliseconds or seconds) and the number of runs for mo
 - [slgobinath/safeeyes](https://github.com/slgobinath/safeeyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
