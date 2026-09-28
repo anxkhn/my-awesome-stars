@@ -2029,7 +2029,7 @@
 - [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Frooastside/node-widevine](https://github.com/Frooastside/node-widevine) - 
-- [Nexvyn/runeicons](https://github.com/Nexvyn/runeicons) - Rune Icons is a set of 900+ icons, each drawn in five styles.
+- [Runeicons/runeicons](https://github.com/Runeicons/runeicons) - Rune Icons is a set of 900+ icons, each drawn in five styles.
 - [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 - [Rajesh-Royal/Broprint.js](https://github.com/Rajesh-Royal/Broprint.js) - The world's easiest, smallest and powerful visitor identifier for browsers.
 - [a2aproject/a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation Tools for A2A Agents
